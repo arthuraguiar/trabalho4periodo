@@ -6,11 +6,10 @@ public class App {
     public static Pessoa[] vetor;
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         DataFetcher dataFetcher = new DataFetcher();
 
         vetor = dataFetcher
-                .getPessoasFromFile("C:/faesa/4periodo/LPOO/trabalho/trabalho/src/basedados/conta500alea.txt", 500);
+                .getPessoasFromFile("src/basedados/conta500alea.txt", 500);
 
         HeapSort(500);
         System.out.println("pessoas.length");
@@ -42,7 +41,7 @@ public class App {
 
         while ((mF <= dir) && (!heap)) {
             if (mF < dir)
-                if (vetor[mF].getCpf().compareTo(vetor[mF + 1].getCpf()) < 0  )
+                if (isFirst(vetor[mF],vetor[mF + 1]))
                     mF++;
             if (isFirst(raiz,vetor[mF])) {
                 vetor[i] = vetor[mF];
