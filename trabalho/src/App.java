@@ -54,12 +54,16 @@ public class App {
     }
 
     private static boolean isFirst(Pessoa pessoa1, Pessoa pessoa2){
-        int compareResult = pessoa1.getCpf().compareTo(pessoa2.getCpf());
-        if(compareResult < 0){
+        int compareCpfResult = pessoa1.getCpf().compareTo(pessoa2.getCpf());
+        if(compareCpfResult < 0){
             return true;
-        } else if (compareResult == 0){
-            if(pessoa1.getAgencia().compareTo(pessoa2.getAgencia()) < 0){
+        } else if (compareCpfResult == 0){
+            int compareAgenciaResult = pessoa1.getAgencia().compareTo(pessoa2.getAgencia());
+            if(compareAgenciaResult< 0){
                 return true;
+            } else if (compareAgenciaResult == 0){
+                int compareContaResult = pessoa1.getConta().compareTo(pessoa2.getConta());          
+                return (compareContaResult < 0);            
             } else{
                 return false;
             }
