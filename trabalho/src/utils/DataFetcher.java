@@ -3,6 +3,7 @@ package utils;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 
 import classes.models.*;
@@ -38,6 +39,15 @@ public class DataFetcher {
             e.printStackTrace();
         }
         return pessoas;
+    }
+
+
+    public void writeFile(String filePath, Pessoa[] pessoas) throws IOException {
+        FileWriter fw = new FileWriter(filePath);
+        for (int i = 0; i < pessoas.length; i++) {
+            fw.write(pessoas[i].toString()+ (i == pessoas.length -1?"":"\n"));
+        }  
+        fw.close();
     }
 
 

@@ -3,16 +3,29 @@ import utils.DataFetcher;
 
 public class App {
 
-    public static Pessoa[] vetor;
+    public static Pessoa[] pessoas;
+    public static DataFetcher dataFetcher = new DataFetcher();
 
-    public static void main(String[] args) throws Exception {
-        DataFetcher dataFetcher = new DataFetcher();
+    public static void main(String[] args) {
+        try {
+            rotinaHeapArquivo("src/basedados/conta500alea.txt", 500 , "src/generated/HeapAlea500.txt");
+        } catch (Exception e) {
+            System.out.println("Erro: "+ e.getMessage());
+        }
 
-        vetor = dataFetcher
-                .getPessoasFromFile("src/basedados/conta500alea.txt", 500);
+        System.out.println("Fim");
+        
+    }
 
-        HeapSort(500);
-        System.out.println("pessoas.length");
+    private static void rotinaHeapArquivo(String inputFileName, int inputRegisterSize, String outputFileName) throws Exception{
+        long startTime = System.currentTimeMillis();
+        
+        pessoas = dataFetcher.getPessoasFromFile(inputFileName, inputRegisterSize);
+        HeapSort(inputRegisterSize);
+        dataFetcher.writeFile(outputFileName, pessoas);
+    
+        long estimatedTime = System.currentTimeMillis() - startTime;
+        System.out.println("Demorou " + estimatedTime);
     }
 
     public static void HeapSort(int nElem) {
@@ -25,9 +38,9 @@ public class App {
             esq--;
         }
         while (dir > 0) {
-            temp = vetor[0];
-            vetor[0] = vetor[dir];
-            vetor[dir] = temp;
+            temp = pessoas[0];
+            pessoas[0] = pessoas[dir];
+            pessoas[dir] = temp;
             dir--;
             refazHeap(0, dir);
         }
@@ -36,21 +49,21 @@ public class App {
     private static void refazHeap(int esq, int dir) {
         int i = esq;
         int mF = 2 * i + 1; // maior filho
-        Pessoa raiz = vetor[i];
+        Pessoa raiz = pessoas[i];
         boolean heap = false;
 
         while ((mF <= dir) && (!heap)) {
             if (mF < dir)
-                if (isFirst(vetor[mF],vetor[mF + 1]))
+                if (isFirst(pessoas[mF],pessoas[mF + 1]))
                     mF++;
-            if (isFirst(raiz,vetor[mF])) {
-                vetor[i] = vetor[mF];
+            if (isFirst(raiz,pessoas[mF])) {
+                pessoas[i] = pessoas[mF];
                 i = mF;
                 mF = 2 * i + 1;
             } else
                 heap = true;
         }
-        vetor[i] = raiz;
+        pessoas[i] = raiz;
     }
 
     private static boolean isFirst(Pessoa pessoa1, Pessoa pessoa2){

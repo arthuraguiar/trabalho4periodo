@@ -46,4 +46,10 @@ public class Pessoa {
     public void setSaldo(String saldo) {
         this.saldo = saldo;
     }
+
+    @Override
+    public String toString() {
+        
+        return this.cpf + ";"+this.Nome+";"+this.agencia+";"+this.conta+";"+this.saldo;
+    }
 }
