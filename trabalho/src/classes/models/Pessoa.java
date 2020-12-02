@@ -49,7 +49,25 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        
-        return this.cpf + ";"+this.Nome+";"+this.agencia+";"+this.conta+";"+this.saldo;
+
+        return this.cpf + ";" + this.Nome + ";" + this.agencia + ";" + this.conta + ";" + this.saldo;
+    }
+
+    public String getInfo(){
+        return "Ag: "+ this.agencia + "   Conta: "+ this.getNomeTipoConta() + "Saldo: R$" + this.saldo;
+    }
+
+    private String getNomeTipoConta() {
+        String primeirosDigitosConta = this.conta.substring(0, 3);
+        switch (primeirosDigitosConta) {
+            case "001":
+                return "Conta Comum";
+            case "002":
+                return "Conta Especial";
+            case "010":
+                return "Poupança";
+            default:
+                return "Não especificado";
+        }
     }
 }

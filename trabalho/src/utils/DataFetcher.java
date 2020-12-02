@@ -28,8 +28,8 @@ public class DataFetcher {
                 pessoa.setConta(lineContent[3].trim());
                 pessoa.setSaldo(lineContent[4].trim());
                 pessoas[numeroAdicionado] = pessoa;
-                numeroAdicionado++; 
-                if(numeroAdicionado >= tamanho)
+                numeroAdicionado++;
+                if (numeroAdicionado >= tamanho)
                     break;
             }
             fr.close(); // closes the stream and release the resources
@@ -41,18 +41,33 @@ public class DataFetcher {
         return pessoas;
     }
 
+    public String[] getCpfsFromFile(String filePath, int tamanho) {
+        String[] cpfs = new String[tamanho];
+        int numeroAdicionado = 0;
+        try {
+            File file = new File(filePath); // creates a new file instance
+            FileReader fr = new FileReader(file); // reads the file
+            BufferedReader br = new BufferedReader(fr); // creates a buffering character input stream
+            String line;
+            while ((line = br.readLine()) != null) {
+                cpfs[numeroAdicionado] = line.trim();
+                numeroAdicionado++;
+                if (numeroAdicionado >= tamanho)
+                    break;
+            }
+            fr.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return cpfs;
+    }
 
     public void writeFile(String filePath, Pessoa[] pessoas) throws IOException {
         FileWriter fw = new FileWriter(filePath);
         for (int i = 0; i < pessoas.length; i++) {
-            fw.write(pessoas[i].toString()+ (i == pessoas.length -1?"":"\n"));
-        }  
+            fw.write(pessoas[i].toString() + (i == pessoas.length - 1 ? "" : "\n"));
+        }
         fw.close();
     }
-
-
-
-
-  
 
 }
