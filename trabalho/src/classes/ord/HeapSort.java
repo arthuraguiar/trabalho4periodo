@@ -12,7 +12,10 @@ public class HeapSort {
     private DataFetcher dataFetcher = new DataFetcher();
     private Pessoa[] pessoas;
 
-    public void rotinaHeapArquivo(String inputFileName, int inputRegisterSize, String outputFileName) throws Exception {
+    public void rotinaHeapArquivo(String inputFileName,
+                                  int inputRegisterSize,
+                                  String outputFileName,
+                                  String outPutFileFindName) throws Exception {
         long startTime = System.currentTimeMillis();
 
         pessoas = dataFetcher.getPessoasFromFile(inputFileName, inputRegisterSize);
@@ -28,7 +31,7 @@ public class HeapSort {
             sbf.append(pesquisaBinaria.removeChave(cpfs[i])+ "\n\n\n");
         }
 
-        BufferedWriter bwr = new BufferedWriter(new FileWriter(new File("src/generated/testesaida.txt")));
+        BufferedWriter bwr = new BufferedWriter(new FileWriter(new File(outPutFileFindName)));
 
         // write contents of StringBuffer to a file
         bwr.write(sbf.toString());
