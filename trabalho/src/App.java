@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 
-import classes.models.NoArvore;
+import classes.models.HashFun;
+import classes.models.NoHash;
 import classes.models.Nodo;
 import classes.models.Pessoa;
 import classes.ord.HeapSort;
 import classes.ord.QuickSort;
-import classes.search.Arvore;
 import classes.search.ArvoreAvl;
-import classes.search.TabelaOrd;
 import utils.DataFetcher;
 
 public class App {
@@ -15,6 +14,15 @@ public class App {
     public static void main(String[] args) {
         try {
             Pessoa[] pessoas = new DataFetcher().getPessoasFromFile("src/basedados/conta500alea.txt", 500);
+            HashFun hash = new HashFun(500);
+            for (int i = 0; i < pessoas.length; i++) {
+                hash.insere(pessoas[i]);
+            }
+
+            String[] cpfs1 = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt", 400);
+            ArrayList<Pessoa> listaCpfsAchados2= new ArrayList<Pessoa>();
+            hash.pesquisa(cpfs1);
+            System.out.println("sdfgsdf");
             // Arvore arvore = new Arvore();
             // for (int i = 0; i < pessoas.length; i++) {
             // arvore.insere(pessoas[i]);
@@ -47,12 +55,11 @@ public class App {
             ArrayList<Pessoa> listaCpfsAchados = new ArrayList<Pessoa>();
             String[] cpfs = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt", 400);
 
-
             for (int i = 0; i < cpfs.length; i++) {
 
                 Nodo noarv = null;
                 do {
-                    noarv = avl.pesquisar(cpfs[i],avl.raiz);
+                    noarv = avl.pesquisar(cpfs[i], avl.raiz);
                     if (noarv != null) {
                         listaCpfsAchados.add(noarv.getPessoa());
                         avl.raiz = avl.remove(cpfs[i]);
@@ -61,7 +68,6 @@ public class App {
 
             }
 
-           
             System.out.println("teste");
 
             QuickSort quick = new QuickSort(pessoas, 500);
