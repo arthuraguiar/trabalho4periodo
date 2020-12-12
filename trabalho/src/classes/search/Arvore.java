@@ -10,31 +10,6 @@ public class Arvore {
         this.raiz = null;
     }
 
-    public boolean pesquisa(String chave) {
-        NoArvore temp;
-
-        temp = this.pesquisa(chave, this.raiz);
-        if (temp != null)
-            return true;
-        else
-            return false;
-    }
-
-    private NoArvore pesquisa(String chave, NoArvore no) {
-        NoArvore temp;
-        temp = no;
-
-        if (temp != null) {
-            if (chave.compareTo(temp.getPessoa().getCpf()) < 0)
-                temp = this.pesquisa(chave, temp.getEsq());
-            else {
-                if (chave.compareTo(temp.getPessoa().getCpf()) > 0)
-                    temp = this.pesquisa(chave, temp.getDir());
-            }
-        }
-        return temp;
-    }
-
     public void insere(Pessoa elem) {
         this.raiz = this.insere(elem, this.raiz);
     }
