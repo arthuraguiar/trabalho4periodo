@@ -1,12 +1,8 @@
 import java.util.ArrayList;
 
 import classes.models.HashFun;
-import classes.models.NoHash;
-import classes.models.Nodo;
 import classes.models.Pessoa;
 import classes.ord.HeapSort;
-import classes.ord.QuickSort;
-import classes.search.ArvoreAvl;
 import utils.DataFetcher;
 
 public class App {
@@ -20,64 +16,10 @@ public class App {
             }
 
             String[] cpfs1 = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt", 400);
-            ArrayList<Pessoa> listaCpfsAchados2= new ArrayList<Pessoa>();
+            ArrayList<Pessoa> listaCpfsAchados2 = new ArrayList<Pessoa>();
             hash.pesquisa(cpfs1);
             System.out.println("sdfgsdf");
-            // Arvore arvore = new Arvore();
-            // for (int i = 0; i < pessoas.length; i++) {
-            // arvore.insere(pessoas[i]);
-            // }
 
-            // Arvore arvoreBalanceada = arvore.arvoreBalanceada(arvore.camCentral(new
-            // TabelaOrd(500)));
-            // ArrayList<Pessoa> listaCpfsAchados= new ArrayList<Pessoa>();
-            // String[] cpfs = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt",
-            // 400);
-
-            // for (int i = 0; i < cpfs.length; i++) {
-
-            // NoArvore noarv = null;
-            // do{
-            // noarv = arvoreBalanceada.pesquisar(cpfs[i], arvoreBalanceada.raiz);
-            // if(noarv != null){
-            // listaCpfsAchados.add(noarv.getPessoa());
-            // arvoreBalanceada.raiz = arvoreBalanceada.remove(cpfs[i]);
-            // }
-            // }while(noarv != null);
-
-            // }
-
-            ArvoreAvl avl = new ArvoreAvl();
-            for (int i = 0; i < pessoas.length; i++) {
-                avl.insereRaiz(pessoas[i]);
-            }
-
-            ArrayList<Pessoa> listaCpfsAchados = new ArrayList<Pessoa>();
-            String[] cpfs = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt", 400);
-
-            for (int i = 0; i < cpfs.length; i++) {
-
-                Nodo noarv = null;
-                do {
-                    noarv = avl.pesquisar(cpfs[i], avl.raiz);
-                    if (noarv != null) {
-                        listaCpfsAchados.add(noarv.getPessoa());
-                        avl.raiz = avl.remove(cpfs[i]);
-                    }
-                } while (noarv != null);
-
-            }
-
-            System.out.println("teste");
-
-            QuickSort quick = new QuickSort(pessoas, 500);
-            quick.quicksort();
-
-            HeapSort heapSort = new HeapSort();
-            heapSort.rotinaHeapArquivo("src/basedados/conta500alea.txt", 500, "src/generated/HeapAlea500.txt",
-                    "src/generated/HeapAleaEncontrados500.txt");
-            heapSort.rotinaHeapArquivo("src/basedados/conta500inv.txt", 500, "src/generated/HeapIve500.txt",
-                    "src/generated/HeapInvEncontrados500.txt");
         } catch (Exception e) {
             System.out.println("Erro: " + e.getMessage());
         }
@@ -85,5 +27,109 @@ public class App {
         System.out.println("Fim");
 
     }
+
+    private static void rotinaHeapSort500Aleatorio() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta500alea.txt", 500, "HeapAlea500.txt",
+                    "HeapAlea500Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort500Inv() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta500inv.txt", 500, "HeapInv500.txt",
+                    "HeapInv500Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort500Ord() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta500ord.txt", 500, "HeapOrd500.txt",
+                    "HeapOrd500Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort1000Aleatorio() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta1000alea.txt", 500, "HeapAlea1000.txt",
+                    "HeapAlea1000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort1000Inv() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta1000inv.txt", 500, "HeapInv1000.txt",
+                    "HeapInv1000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 1000 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort1000Ord() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta1000ord.txt", 500, "HeapOrd1000.txt",
+                    "HeapOrd1000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+
+    private static void rotinaHeapSort5000Aleatorio() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta5000alea.txt", 500, "HeapAlea5000.txt",
+                    "HeapAlea5000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+
+    private static void rotinaHeapSort5000Inv() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta5000inv.txt", 500, "HeapInv5000.txt",
+                    "HeapInv5000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+    private static void rotinaHeapSort5000Ord() {
+        HeapSort heap500ale = new HeapSort();
+        try {
+            heap500ale.rotinaHeapArquivo("src/basedados/conta5000ord.txt", 500, "HeapOrd5000.txt",
+                    "HeapOrd5000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
+        }
+
+    }
+
+
+
 
 }
