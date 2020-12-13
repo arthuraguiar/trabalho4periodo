@@ -1,17 +1,12 @@
+import classes.search.ArvoreAvl;
+import finalrotines.ArvoreAvlRotine;
 import finalrotines.HeapRotine;
 import finalrotines.QuickSortRotine;
 
 public class App {
 
     public static void main(String[] args) {
-        try {
-
-            // HeapRotine heapRotine = new HeapRotine();
-            // heapRotine.executeRotine();
-
-            QuickSortRotine quickSortRotine = new QuickSortRotine();
-            quickSortRotine.executeRotine();
-
+        try {          
             // Pessoa[] pessoas = new
             // DataFetcher().getPessoasFromFile("src/basedados/conta500alea.txt", 500);
             // HashFun hash = new HashFun(500);

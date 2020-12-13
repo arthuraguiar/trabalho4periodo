@@ -7,7 +7,6 @@ public class PesquisaBinaria {
     private Pessoa[] pessoas;
     private int numeroElementos = 0;
     private ArrayList<Pessoa> pessoasDoCpf;
-    int encontrados = 0;
 
     public PesquisaBinaria(Pessoa[] pessoas) {
         this.pessoas = pessoas;
@@ -29,7 +28,6 @@ public class PesquisaBinaria {
             double saldo = 0;
             texto = "CPF"+ chave + "     " +pessoasDoCpf.get(0).getNome() + "\n";
             for (Pessoa pessoa : pessoasDoCpf) {
-               encontrados++;
                texto += pessoa.getInfo() + "\n";
                saldo += Double.parseDouble(pessoa.getSaldo());
             }
