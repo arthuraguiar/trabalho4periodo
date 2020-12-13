@@ -1,15 +1,38 @@
 package classes.models;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+
+import utils.DataFetcher;
 
 public class HashFun {
 
     private int tamanho;
     private NoHash[] vetor;
+    private DataFetcher dataFetcher = new DataFetcher();
 
     public HashFun(int tamanhoInicial) {
         this.tamanho = getSizeofVector(tamanhoInicial);
         this.vetor = new NoHash[tamanho];
+    }
+
+    public long rotinaHashArquivo(String inputFileName, int inputRegisterSize, String outPutFileFindName)
+            throws Exception {
+        long startTime = System.currentTimeMillis();
+        Pessoa[] pessoas = dataFetcher.getPessoasFromFile(inputFileName, inputRegisterSize);
+        for (int i = 0; i < pessoas.length; i++) {
+            insere(pessoas[i]);
+        }
+
+        String[] cpfs = dataFetcher.getCpfsFromFile("src/basedados/Conta.txt", 400);
+        pesquisa(outPutFileFindName, cpfs);
+
+        long estimatedTime = System.currentTimeMillis() - startTime;
+
+        return estimatedTime;
     }
 
     public int hashing(String chave) {
@@ -32,10 +55,6 @@ public class HashFun {
     }
 
     private void inserePosicao(NoHash no, int index) {
-        if (index > 499) {
-            System.out.println("sdfsdf");
-        }
-
         try {
             NoHash noVetor = vetor[index];
             if (noVetor == null) {
@@ -117,40 +136,59 @@ public class HashFun {
         return prime;
     }
 
-    public void pesquisa(String[] cpfs) {
-        ArrayList<Pessoa> pessoas = new ArrayList<Pessoa>();
+    public void pesquisa(String outPutFileFindName, String[] cpfs) throws IOException {
+        StringBuffer sbf = new StringBuffer();
         for (int i = 0; i < cpfs.length; i++) {
+            ArrayList<Pessoa> pessoasEncontradas = new ArrayList<Pessoa>();
             int hashValue = hashing(cpfs[i]);
             int posicao = hashValue % tamanho;
             int index = posicao % tamanho;
 
             NoHash noAtual = vetor[index];
             NoHash noAnterior = null;
-           
-            while(noAtual != null){
-                if(noAtual !=null && noAtual.getPessoa().getCpf().equals(cpfs[i])){
-                    pessoas.add(noAtual.getPessoa());
+
+            while (noAtual != null) {
+                if (noAtual != null && noAtual.getPessoa().getCpf().equals(cpfs[i])) {
+                    pessoasEncontradas.add(noAtual.getPessoa());
 
                     // quando é a raiz
-                    if(noAtual == vetor[index]){
-                        if(noAtual.getProxNo() == null){
+                    if (noAtual == vetor[index]) {
+                        if (noAtual.getProxNo() == null) {
                             vetor[index] = null;
-                        }else{
+                        } else {
                             vetor[index] = noAtual.getProxNo();
                         }
                     } else {
                         noAnterior.setProxNo(noAtual.getProxNo());
                     }
-                }else{
+                } else {
                     noAnterior = noAtual;
                 }
 
                 noAtual = noAtual.getProxNo();
             }
+
+            String texto;
+            if (pessoasEncontradas.size() <= 0) {
+                texto = "CPF " + cpfs[i] + ":\nNÃO HÁ NENHUM REGISTRO COM O CPF 12345612344\n";
+            } else {
+                double saldo = 0;
+                texto = "CPF" + cpfs[i] + "     " + pessoasEncontradas.get(0).getNome() + "\n";
+                for (Pessoa pessoa : pessoasEncontradas) {
+                    texto += pessoa.getInfo() + "\n";
+                    saldo += Double.parseDouble(pessoa.getSaldo());
+                }
+                texto += "Saldo Total: " + saldo + "\n";
+            }
+            sbf.append(texto + "\n\n\n");
         }
+        BufferedWriter bwr = new BufferedWriter(new FileWriter(new File(outPutFileFindName)));
 
-        System.out.println("sdfgsdfsad");
+        bwr.write(sbf.toString());
 
+        bwr.flush();
+
+        bwr.close();
     }
 
 }
