@@ -1,4 +1,3 @@
-import classes.models.HashFun;
 import finalrotines.ArvoreAvlRotine;
 import finalrotines.ArvoreBRotine;
 import finalrotines.HashRotine;
