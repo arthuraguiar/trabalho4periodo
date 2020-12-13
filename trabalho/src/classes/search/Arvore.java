@@ -5,8 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
 
-import classes.models.NoArvore;
-import classes.models.Pessoa;
+import classes.models.*;
 import utils.DataFetcher;
 
 public class Arvore {

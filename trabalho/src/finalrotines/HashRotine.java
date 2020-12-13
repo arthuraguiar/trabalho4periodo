@@ -1,6 +1,6 @@
 package finalrotines;
 
-import classes.models.HashFun;
+import classes.search.HashFun;
 import interfaces.Rotina;
 
 public class HashRotine implements Rotina {

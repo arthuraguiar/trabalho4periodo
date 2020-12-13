@@ -1,4 +1,4 @@
-package classes.models;
+package classes.search;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -6,6 +6,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import classes.models.NoHash;
+import classes.models.Pessoa;
 import utils.DataFetcher;
 
 public class HashFun {

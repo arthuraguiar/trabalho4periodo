@@ -1,6 +1,4 @@
-package classes.search;
-
-import classes.models.Pessoa;
+package classes.models;
 
 public class TabelaOrd {
     private int tamanho;
