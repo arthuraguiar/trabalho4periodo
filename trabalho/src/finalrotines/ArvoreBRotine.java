@@ -7,6 +7,8 @@ public class ArvoreBRotine implements Rotina {
     @Override
     public void executeRotine() {
 
+        System.out.println("\n\n----- Rotina Arvore Binaria -----\n\n");
+
         // -------- ABB 500 Aleatório -------------//
         long tempoABB500Ale = 0;
         for (int i = 0; i < 5; i++) {

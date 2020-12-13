@@ -1,28 +1,22 @@
 import classes.models.HashFun;
+import finalrotines.ArvoreAvlRotine;
 import finalrotines.ArvoreBRotine;
+import finalrotines.HashRotine;
+import finalrotines.HeapRotine;
+import finalrotines.QuickSortRotine;
 
 public class App {
 
     public static void main(String[] args) {
-        try {          
-            new HashFun(500).rotinaHashArquivo("src/basedados/conta500alea.txt", 500, "testeArthur.txt");
-            // Pessoa[] pessoas = new
-            // DataFetcher().getPessoasFromFile("src/basedados/conta500alea.txt", 500);
-            // HashFun hash = new HashFun(500);
-            // for (int i = 0; i < pessoas.length; i++) {
-            // hash.insere(pessoas[i]);
-            // }
+        System.out.println("------------Trabalho Pesquisa Ordenação e LPOO------------\n");
+        System.out.println("Alunos: Arthur Barcellos de Aguiar \nIgor Teixeira \nArthur Sanglard \nJuliana Silva Costa \n Fagner Pelicioni\n");
+        System.out.println("Professora: Cinthia C L Caliari");
 
-            // String[] cpfs1 = new DataFetcher().getCpfsFromFile("src/basedados/Conta.txt",
-            // 400);
-            // ArrayList<Pessoa> listaCpfsAchados2 = new ArrayList<Pessoa>();
-            // hash.pesquisa(cpfs1);
-            // System.out.println("sdfgsdf");
-
-        } catch (Exception e) {
-            System.out.println("Erro: " + e.getMessage());
-        }
-
+        new HeapRotine().executeRotine();
+        new QuickSortRotine().executeRotine();
+        new ArvoreBRotine().executeRotine();
+        new ArvoreAvlRotine().executeRotine();
+        new HashRotine().executeRotine();
     }
 
 }

@@ -7,6 +7,7 @@ public class HeapRotine implements Rotina {
 
     @Override
     public void executeRotine() {
+        System.out.println("\n\n----- Rotina HeapSort -----\n\n");
 
         // -------- Heap 500 Aleatório -------------//
         long tempoHeap500Ale = 0;

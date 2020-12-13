@@ -7,6 +7,9 @@ public class QuickSortRotine implements Rotina {
 
     @Override
     public void executeRotine() {
+        
+        System.out.println("\n\n----- Rotina QuickSort -----\n\n");
+
 
         // -------- Quick 500 Aleatório -------------//
         long tempoQuick500Ale = 0;

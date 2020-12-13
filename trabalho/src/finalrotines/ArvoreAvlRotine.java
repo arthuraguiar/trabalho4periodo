@@ -8,6 +8,8 @@ public class ArvoreAvlRotine implements Rotina {
     @Override
     public void executeRotine() {
 
+        System.out.println("\n\n----- Rotina Arvore Avl -----\n\n");
+
         // -------- AVL 500 Aleatório -------------//
         long tempoAvl500Ale = 0;
         for (int i = 0; i < 5; i++) {
