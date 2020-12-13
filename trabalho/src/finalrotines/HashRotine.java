@@ -121,7 +121,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash500Aleatorio() {
         HashFun hashFun = new HashFun(500);
         try {
-            return hashFun.rotinaHashArquivo("src/basedados/conta500alea.txt", 500, "HashAlea500Encontrado.txt");
+            return hashFun.rotinaHashArquivo("src/basedados/conta500alea.txt", 500, "src/generated/hash/HashAlea500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 500 aleatorios erro:" + e.getMessage());
             return 0;
@@ -132,7 +132,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash500Inv() {
         HashFun hash = new HashFun(500);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta500inv.txt", 500, "HashInv500Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta500inv.txt", 500, "src/generated/hash/HashInv500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 500 iverso erro:" + e.getMessage());
             return 0;
@@ -142,7 +142,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash500Ord() {
         HashFun hash = new HashFun(500);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta500ord.txt", 500, "HashOrd500Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta500ord.txt", 500, "src/generated/hash/HashOrd500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 500 ordernado erro:" + e.getMessage());
             return 0;
@@ -152,7 +152,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash1000Aleatorio() {
         HashFun Hash = new HashFun(1000);
         try {
-            return Hash.rotinaHashArquivo("src/basedados/conta1000alea.txt", 1000, "HashAlea1000Encontrado.txt");
+            return Hash.rotinaHashArquivo("src/basedados/conta1000alea.txt", 1000, "src/generated/hash/HashAlea1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -162,7 +162,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash1000Inv() {
         HashFun hash = new HashFun(1000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta1000inv.txt", 1000, "HashInv1000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta1000inv.txt", 1000, "src/generated/hash/HashInv1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 1000 invertido erro:" + e.getMessage());
             return 0;
@@ -172,7 +172,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash1000Ord() {
         HashFun hash = new HashFun(1000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta1000ord.txt", 1000, "HashOrd1000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta1000ord.txt", 1000, "src/generated/hash/HashOrd1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 1000 ordernado erro:" + e.getMessage());
             return 0;
@@ -182,7 +182,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash5000Aleatorio() {
         HashFun hash = new HashFun(5000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta5000alea.txt", 5000, "HashAlea5000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta5000alea.txt", 5000, "src/generated/hash/HashAlea5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 5000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -193,7 +193,7 @@ public class HashRotine implements Rotina {
     private long rotinaHashe5000Inv() {
         HashFun hash = new HashFun(5000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta5000inv.txt", 5000, "HashInv5000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta5000inv.txt", 5000, "src/generated/hash/HashInv5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 5000 invertido erro:" + e.getMessage());
             return 0;
@@ -204,7 +204,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash5000Ord() {
         HashFun hash = new HashFun(5000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta5000ord.txt", 5000, "HashOrd5000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta5000ord.txt", 5000, "src/generated/hash/HashOrd5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 5000 ordenado erro:" + e.getMessage());
             return 0;
@@ -214,7 +214,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash10000Aleatorio() {
         HashFun hash = new HashFun(10000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta10000alea.txt", 10000, "HashAlea10000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta10000alea.txt", 10000, "src/generated/hash/HashAlea10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 10.000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -225,7 +225,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash10000Inv() {
         HashFun hash = new HashFun(10000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta10000inv.txt", 10000, "HashInv10000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta10000inv.txt", 10000, "src/generated/hash/HashInv10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 10.000 invertido erro:" + e.getMessage());
             return 0;
@@ -236,7 +236,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash10000Ord() {
         HashFun hash = new HashFun(10000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta10000ord.txt", 10000, "HashOrd10000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta10000ord.txt", 10000, "src/generated/hash/HashOrd10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 10.000 ordenado erro:" + e.getMessage());
             return 0;
@@ -247,7 +247,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash50000Ale() {
         HashFun hash = new HashFun(50000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta50000alea.txt", 50000, "HeaAle50000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta50000alea.txt", 50000, "src/generated/hash/HashAle50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 50.000 aleatorio erro:" + e.getMessage());
             return 0;
@@ -258,7 +258,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash50000Inv() {
         HashFun hash = new HashFun(50000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta50000inv.txt", 50000, "HashInv50000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta50000inv.txt", 50000, "src/generated/hash/HashInv50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 50.000 invertido erro:" + e.getMessage());
             return 0;
@@ -269,7 +269,7 @@ public class HashRotine implements Rotina {
     private long rotinaHash50000Ord() {
         HashFun hash = new HashFun(50000);
         try {
-            return hash.rotinaHashArquivo("src/basedados/conta50000ord.txt", 50000, "HashOrd50000Encontrado.txt");
+            return hash.rotinaHashArquivo("src/basedados/conta50000ord.txt", 50000, "src/generated/hash/HashOrd50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Hash de 50.000 ordenado erro:" + e.getMessage());
             return 0;

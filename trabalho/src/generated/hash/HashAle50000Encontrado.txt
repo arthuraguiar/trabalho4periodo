@@ -1,0 +1,2532 @@
+CPF 88701879089:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF48234493436     MARCOS RIBEIRO
+Ag: 84003   Conta: PoupançaSaldo: R$8535.0
+Ag: 58534   Conta: PoupançaSaldo: R$10616.0
+Ag: 50396   Conta: Conta ComumSaldo: R$11620.0
+Saldo Total: 30771.0
+
+
+
+CPF34231249713     PAOLA DE PAULA CAMILO MARTINS
+Ag: 65864   Conta: Conta ComumSaldo: R$15787.0
+Ag: 2851   Conta: PoupançaSaldo: R$4845.0
+Ag: 37904   Conta: PoupançaSaldo: R$15973.0
+Ag: 87734   Conta: Conta ComumSaldo: R$6215.0
+Saldo Total: 42820.0
+
+
+
+CPF 60914840856:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF77744694834     FABIO ROMAO DOS SANTOS
+Ag: 44001   Conta: Conta ComumSaldo: R$16236.0
+Saldo Total: 16236.0
+
+
+
+CPF65585347839     MARIANA SA CRUZ
+Ag: 71017   Conta: Conta ComumSaldo: R$472.0
+Ag: 97139   Conta: Conta ComumSaldo: R$16811.0
+Saldo Total: 17283.0
+
+
+
+CPF32243351433     MELISSA OLIVEIRA DA SILVA
+Ag: 61148   Conta: Conta ComumSaldo: R$6037.0
+Saldo Total: 6037.0
+
+
+
+CPF 34231249713:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF97430637506     OTAVIO DE PAULA
+Ag: 50009   Conta: Conta ComumSaldo: R$12464.0
+Ag: 90944   Conta: Conta ComumSaldo: R$12060.0
+Saldo Total: 24524.0
+
+
+
+CPF47123782100     LUCIANA PRATES FERNANDES SILVA
+Ag: 85360   Conta: Conta ComumSaldo: R$6948.0
+Saldo Total: 6948.0
+
+
+
+CPF98087792728     BRUNO GOMES FERNANDES
+Ag: 18339   Conta: Conta ComumSaldo: R$14876.0
+Saldo Total: 14876.0
+
+
+
+CPF 00495794860:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF03915782635     LILIANE SILVA DE PAULA
+Ag: 38984   Conta: PoupançaSaldo: R$4254.0
+Saldo Total: 4254.0
+
+
+
+CPF57897465708     ALINE MENEZES
+Ag: 94000   Conta: Conta ComumSaldo: R$784.0
+Saldo Total: 784.0
+
+
+
+CPF43863328509     PAULO COELHO SILVEIRA
+Ag: 83305   Conta: PoupançaSaldo: R$16645.0
+Ag: 19701   Conta: Conta ComumSaldo: R$12960.0
+Ag: 50058   Conta: PoupançaSaldo: R$3794.0
+Ag: 35780   Conta: Conta ComumSaldo: R$233.0
+Ag: 17551   Conta: Conta ComumSaldo: R$15200.0
+Ag: 60750   Conta: PoupançaSaldo: R$-2488.0
+Ag: 36655   Conta: PoupançaSaldo: R$6451.0
+Saldo Total: 52795.0
+
+
+
+CPF47597897891     ALAN GUSMAO GONCALVES
+Ag: 39814   Conta: PoupançaSaldo: R$7151.0
+Saldo Total: 7151.0
+
+
+
+CPF89723728905     LUIZ CARLOS ALVES DUARTE
+Ag: 63880   Conta: PoupançaSaldo: R$15166.0
+Saldo Total: 15166.0
+
+
+
+CPF58454589042     LETICIA BARRETO BATISTA
+Ag: 29933   Conta: Conta ComumSaldo: R$10593.0
+Ag: 6789   Conta: PoupançaSaldo: R$4820.0
+Saldo Total: 15413.0
+
+
+
+CPF44749772824     FABIANO CAVALCANTE CARVALHO
+Ag: 6799   Conta: Conta EspecialSaldo: R$7423.0
+Saldo Total: 7423.0
+
+
+
+CPF90199423159     MARCOS DUARTE
+Ag: 44009   Conta: PoupançaSaldo: R$5685.0
+Saldo Total: 5685.0
+
+
+
+CPF84277094724     JULIA GUSMAO LOPES
+Ag: 89792   Conta: Conta ComumSaldo: R$2548.0
+Saldo Total: 2548.0
+
+
+
+CPF89268584925     JOSE AUGUSTO VIANNA GONCALVES GOMES
+Ag: 79891   Conta: Conta ComumSaldo: R$6108.0
+Saldo Total: 6108.0
+
+
+
+CPF02382464198     ALESSANDRO MELLO
+Ag: 85153   Conta: PoupançaSaldo: R$3878.0
+Ag: 52754   Conta: Conta ComumSaldo: R$11995.0
+Saldo Total: 15873.0
+
+
+
+CPF56679257493     PAOLA MAIA
+Ag: 18357   Conta: PoupançaSaldo: R$15766.0
+Saldo Total: 15766.0
+
+
+
+CPF13436099734     CRISTIANO BARRETO
+Ag: 28282   Conta: PoupançaSaldo: R$5425.0
+Saldo Total: 5425.0
+
+
+
+CPF71106763891     RICARDO VILELA MARQUES
+Ag: 71675   Conta: Conta EspecialSaldo: R$3452.0
+Saldo Total: 3452.0
+
+
+
+CPF58694041084     RAFAELA ALVES
+Ag: 93903   Conta: PoupançaSaldo: R$11588.0
+Saldo Total: 11588.0
+
+
+
+CPF 96831925288:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF68639277170     BIANCA FERNANDES ABREU
+Ag: 18086   Conta: Conta ComumSaldo: R$388.0
+Ag: 17267   Conta: Conta ComumSaldo: R$-1696.0
+Saldo Total: -1308.0
+
+
+
+CPF11425829123     GILBERTO MOURA
+Ag: 94248   Conta: Conta ComumSaldo: R$7168.0
+Saldo Total: 7168.0
+
+
+
+CPF08030344451     ROBSON VILELA ROCHA
+Ag: 3398   Conta: PoupançaSaldo: R$7106.0
+Ag: 40996   Conta: PoupançaSaldo: R$9906.0
+Saldo Total: 17012.0
+
+
+
+CPF82199865907     ADRIANO CAMILO NASCIMENTO
+Ag: 95687   Conta: PoupançaSaldo: R$16823.0
+Ag: 47866   Conta: PoupançaSaldo: R$-683.0
+Saldo Total: 16140.0
+
+
+
+CPF60846050557     ESTEVAO ROCHA
+Ag: 35324   Conta: Conta ComumSaldo: R$10913.0
+Saldo Total: 10913.0
+
+
+
+CPF45274888971     MARCOS CASTRO MORAES GALVAO
+Ag: 42610   Conta: Conta ComumSaldo: R$14566.0
+Saldo Total: 14566.0
+
+
+
+CPF32139565861     SUELI ANDRADE SA
+Ag: 16223   Conta: PoupançaSaldo: R$15916.0
+Saldo Total: 15916.0
+
+
+
+CPF50107260769     ANA GOMES SANTOS
+Ag: 82309   Conta: Conta ComumSaldo: R$-2648.0
+Saldo Total: -2648.0
+
+
+
+CPF01872213714     CRISTIANE DA SILVA SARMENTO COELHO
+Ag: 45173   Conta: PoupançaSaldo: R$4269.0
+Saldo Total: 4269.0
+
+
+
+CPF93758639494     RICARDO GARCIA
+Ag: 2839   Conta: Conta ComumSaldo: R$12429.0
+Saldo Total: 12429.0
+
+
+
+CPF17417653388     PAULO AUGUSTO SARMENTO MARQUES
+Ag: 74098   Conta: Conta ComumSaldo: R$-1034.0
+Ag: 71357   Conta: PoupançaSaldo: R$13419.0
+Saldo Total: 12385.0
+
+
+
+CPF38877060133     ALESSANDRA NOGUEIRA
+Ag: 68974   Conta: PoupançaSaldo: R$4300.0
+Saldo Total: 4300.0
+
+
+
+CPF09615189549     VERA ANDRADE MARTINHO RIBEIRO
+Ag: 62349   Conta: Conta ComumSaldo: R$9727.0
+Ag: 51765   Conta: Conta EspecialSaldo: R$2870.0
+Ag: 56534   Conta: PoupançaSaldo: R$12938.0
+Saldo Total: 25535.0
+
+
+
+CPF83342513268     LILIAN CONCEICAO COSTA
+Ag: 27433   Conta: PoupançaSaldo: R$7913.0
+Saldo Total: 7913.0
+
+
+
+CPF56733806115     MARIA JOSE CARVALHO
+Ag: 77554   Conta: PoupançaSaldo: R$-2960.0
+Ag: 25452   Conta: Conta ComumSaldo: R$-1463.0
+Saldo Total: -4423.0
+
+
+
+CPF74257150139     AGENOR GONCALVES MARQUES
+Ag: 21363   Conta: PoupançaSaldo: R$11219.0
+Saldo Total: 11219.0
+
+
+
+CPF40214010201     RUBENS DIAS NOGUEIRA MOURA
+Ag: 52379   Conta: PoupançaSaldo: R$12026.0
+Ag: 49042   Conta: Conta ComumSaldo: R$8475.0
+Ag: 65047   Conta: PoupançaSaldo: R$13220.0
+Ag: 34472   Conta: Conta ComumSaldo: R$11085.0
+Ag: 97389   Conta: PoupançaSaldo: R$15732.0
+Ag: 71869   Conta: PoupançaSaldo: R$10564.0
+Ag: 26925   Conta: PoupançaSaldo: R$11328.0
+Saldo Total: 82430.0
+
+
+
+CPF05483696271     ALTAIR DOS SANTOS DOS SANTOS SILVEIRA
+Ag: 92356   Conta: PoupançaSaldo: R$11449.0
+Ag: 54146   Conta: Conta ComumSaldo: R$2552.0
+Saldo Total: 14001.0
+
+
+
+CPF76322469806     PAULA DA SILVA CRUZ
+Ag: 94614   Conta: Conta ComumSaldo: R$11978.0
+Saldo Total: 11978.0
+
+
+
+CPF 02382464198:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF55184119595     LARISSA PRATES GALVAO GALVAO
+Ag: 4752   Conta: PoupançaSaldo: R$16017.0
+Saldo Total: 16017.0
+
+
+
+CPF08696086038     BRUNO CARVALHO
+Ag: 83413   Conta: Conta ComumSaldo: R$12718.0
+Saldo Total: 12718.0
+
+
+
+CPF36041970019     MARIANA DUARTE
+Ag: 10977   Conta: PoupançaSaldo: R$12040.0
+Saldo Total: 12040.0
+
+
+
+CPF62317350151     SANDRO RODRIGUES COELHO BARRETO
+Ag: 14002   Conta: Conta ComumSaldo: R$3355.0
+Ag: 70819   Conta: PoupançaSaldo: R$9660.0
+Saldo Total: 13015.0
+
+
+
+CPF71426140129     ANA CARLA RIBEIRO SILVA
+Ag: 70159   Conta: Conta ComumSaldo: R$12919.0
+Saldo Total: 12919.0
+
+
+
+CPF42403328708     SIMONE NASCIMENTO
+Ag: 6578   Conta: PoupançaSaldo: R$4108.0
+Saldo Total: 4108.0
+
+
+
+CPF21498111010     PAULA OLIVEIRA SARMENTO MELLO
+Ag: 25007   Conta: PoupançaSaldo: R$8363.0
+Saldo Total: 8363.0
+
+
+
+CPF08340429950     ANTONIO COUTINHO BATISTA
+Ag: 43926   Conta: Conta ComumSaldo: R$8877.0
+Saldo Total: 8877.0
+
+
+
+CPF13681275333     KELLY CARVALHO
+Ag: 10566   Conta: Conta ComumSaldo: R$6153.0
+Saldo Total: 6153.0
+
+
+
+CPF79928542961     RENATA COSTA GONCALVES COSME
+Ag: 76221   Conta: Conta ComumSaldo: R$499.0
+Saldo Total: 499.0
+
+
+
+CPF43448452360     AGENOR RODRIGUES CAVALCANTE
+Ag: 98715   Conta: PoupançaSaldo: R$11491.0
+Saldo Total: 11491.0
+
+
+
+CPF08427158291     LUCIO CASTRO VIANNA
+Ag: 45728   Conta: Conta ComumSaldo: R$2321.0
+Saldo Total: 2321.0
+
+
+
+CPF11008960138     JOAO MOREIRA TELLES
+Ag: 75809   Conta: PoupançaSaldo: R$-2609.0
+Ag: 20814   Conta: PoupançaSaldo: R$16386.0
+Saldo Total: 13777.0
+
+
+
+CPF02138776880     ADILSON CASTRO DOS SANTOS
+Ag: 19931   Conta: PoupançaSaldo: R$3002.0
+Ag: 29133   Conta: PoupançaSaldo: R$11730.0
+Ag: 43655   Conta: Conta ComumSaldo: R$10787.0
+Ag: 29840   Conta: PoupançaSaldo: R$10333.0
+Ag: 58441   Conta: PoupançaSaldo: R$9013.0
+Saldo Total: 44865.0
+
+
+
+CPF44770586900     CRISTIANO MARTINS
+Ag: 73810   Conta: PoupançaSaldo: R$6693.0
+Ag: 89447   Conta: PoupançaSaldo: R$9003.0
+Saldo Total: 15696.0
+
+
+
+CPF 89114163702:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF77026750234     NATALIA GUERRA SANTOS
+Ag: 81348   Conta: PoupançaSaldo: R$3346.0
+Saldo Total: 3346.0
+
+
+
+CPF89498680581     SUELI CASTRO
+Ag: 69193   Conta: Conta ComumSaldo: R$11683.0
+Ag: 88964   Conta: PoupançaSaldo: R$2383.0
+Ag: 76816   Conta: Conta ComumSaldo: R$14540.0
+Saldo Total: 28606.0
+
+
+
+CPF22781563090     HENRIQUE COUTINHO SOUZA GUSMAO
+Ag: 15644   Conta: Conta ComumSaldo: R$3964.0
+Saldo Total: 3964.0
+
+
+
+CPF49901036821     OTAVIO BATISTA RIBEIRO
+Ag: 87787   Conta: PoupançaSaldo: R$6677.0
+Saldo Total: 6677.0
+
+
+
+CPF12468943748     FABIO MARTINS DUARTE
+Ag: 89606   Conta: PoupançaSaldo: R$10582.0
+Saldo Total: 10582.0
+
+
+
+CPF13079582726     DANIEL VILELA ALVES NOGUEIRA
+Ag: 83143   Conta: Conta ComumSaldo: R$7177.0
+Saldo Total: 7177.0
+
+
+
+CPF61366153514     DIANA GARCIA
+Ag: 67763   Conta: Conta ComumSaldo: R$4325.0
+Ag: 418   Conta: PoupançaSaldo: R$15537.0
+Ag: 2300   Conta: Conta ComumSaldo: R$-2366.0
+Ag: 17623   Conta: Conta ComumSaldo: R$916.0
+Saldo Total: 18412.0
+
+
+
+CPF00971707579     OSVALDO GALVAO VIEIRA
+Ag: 84493   Conta: Conta ComumSaldo: R$15397.0
+Ag: 17043   Conta: Conta ComumSaldo: R$1700.0
+Ag: 45753   Conta: Conta ComumSaldo: R$4976.0
+Saldo Total: 22073.0
+
+
+
+CPF 92668857905:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF09680617935     RENATO OLIVEIRA NOGUEIRA CASTRO
+Ag: 61814   Conta: PoupançaSaldo: R$8416.0
+Saldo Total: 8416.0
+
+
+
+CPF60234212096     ANA CRISTINA GOMES MOREIRA LIMA
+Ag: 37007   Conta: Conta ComumSaldo: R$-2759.0
+Saldo Total: -2759.0
+
+
+
+CPF55303970725     RAFAEL REZENDE DIAS SA
+Ag: 43848   Conta: Conta ComumSaldo: R$5687.0
+Saldo Total: 5687.0
+
+
+
+CPF87953799239     PAULO HENRIQUE SOUZA SOUZA
+Ag: 20984   Conta: PoupançaSaldo: R$13670.0
+Ag: 2328   Conta: PoupançaSaldo: R$9448.0
+Saldo Total: 23118.0
+
+
+
+CPF75369097655     GUSTAVO TELLES GARCIA GONCALVES
+Ag: 11431   Conta: PoupançaSaldo: R$10983.0
+Ag: 7007   Conta: PoupançaSaldo: R$9036.0
+Ag: 28013   Conta: Conta EspecialSaldo: R$10894.0
+Saldo Total: 30913.0
+
+
+
+CPF17930394198     MAURO FERNANDES
+Ag: 15872   Conta: PoupançaSaldo: R$12645.0
+Ag: 79525   Conta: PoupançaSaldo: R$7434.0
+Saldo Total: 20079.0
+
+
+
+CPF19900509357     PEDRO NASCIMENTO SOUZA ROCHA
+Ag: 10171   Conta: Conta ComumSaldo: R$2588.0
+Ag: 92281   Conta: PoupançaSaldo: R$-205.0
+Saldo Total: 2383.0
+
+
+
+CPF35086196877     RAFAELA MELLO RIBEIRO ROMAO
+Ag: 31330   Conta: Conta ComumSaldo: R$10781.0
+Saldo Total: 10781.0
+
+
+
+CPF17228010133     ESTEVAO LOPES NOGUEIRA
+Ag: 80124   Conta: PoupançaSaldo: R$13776.0
+Ag: 48818   Conta: Conta ComumSaldo: R$8353.0
+Saldo Total: 22129.0
+
+
+
+CPF 06086026111:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF61959208924     ALINE GUSMAO COSME
+Ag: 52513   Conta: Conta EspecialSaldo: R$-1669.0
+Saldo Total: -1669.0
+
+
+
+CPF07771395159     RUBENS MARTINS
+Ag: 8009   Conta: PoupançaSaldo: R$12478.0
+Ag: 78894   Conta: PoupançaSaldo: R$13138.0
+Saldo Total: 25616.0
+
+
+
+CPF66497369758     ANA NASCIMENTO MACHADO
+Ag: 82058   Conta: Conta EspecialSaldo: R$16243.0
+Ag: 49298   Conta: PoupançaSaldo: R$11361.0
+Saldo Total: 27604.0
+
+
+
+CPF 48182841984:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF96580426144     WALACE TELLES SOUZA BARRETO
+Ag: 96373   Conta: Conta ComumSaldo: R$7782.0
+Saldo Total: 7782.0
+
+
+
+CPF89728678526     SUELI SILVEIRA FERNANDES RIBEIRO
+Ag: 51394   Conta: Conta ComumSaldo: R$15627.0
+Ag: 77144   Conta: Conta EspecialSaldo: R$817.0
+Saldo Total: 16444.0
+
+
+
+CPF59797813299     VICENTE MARQUES ABREU
+Ag: 19041   Conta: Conta ComumSaldo: R$9978.0
+Saldo Total: 9978.0
+
+
+
+CPF16914810665     LILIAN GALVAO MARTINS
+Ag: 16474   Conta: Conta ComumSaldo: R$758.0
+Ag: 48602   Conta: Conta ComumSaldo: R$12728.0
+Saldo Total: 13486.0
+
+
+
+CPF89007647973     ALESSANDRA BATISTA
+Ag: 21852   Conta: Conta ComumSaldo: R$13293.0
+Saldo Total: 13293.0
+
+
+
+CPF71901040726     RAFAELA LOPES FERNANDES MACHADO
+Ag: 45567   Conta: PoupançaSaldo: R$118.0
+Saldo Total: 118.0
+
+
+
+CPF29985449829     VALERIA VARGAS MELLO LIMA
+Ag: 27192   Conta: Conta ComumSaldo: R$11805.0
+Ag: 61274   Conta: PoupançaSaldo: R$4108.0
+Saldo Total: 15913.0
+
+
+
+CPF01576296197     ELIANA OLIVEIRA NASCIMENTO
+Ag: 76601   Conta: PoupançaSaldo: R$10386.0
+Ag: 4213   Conta: PoupançaSaldo: R$5262.0
+Ag: 9722   Conta: PoupançaSaldo: R$-2097.0
+Ag: 87937   Conta: Conta EspecialSaldo: R$14363.0
+Ag: 13619   Conta: PoupançaSaldo: R$8377.0
+Saldo Total: 36291.0
+
+
+
+CPF23366444564     ALESSANDRO DIAS
+Ag: 59218   Conta: Conta ComumSaldo: R$5000.0
+Saldo Total: 5000.0
+
+
+
+CPF 55175756150:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF14839055670     ALOISIO DIAS OLIVEIRA
+Ag: 99571   Conta: PoupançaSaldo: R$7126.0
+Ag: 67934   Conta: Conta ComumSaldo: R$3230.0
+Saldo Total: 10356.0
+
+
+
+CPF84099573597     JAQUELINE PRATES
+Ag: 10871   Conta: PoupançaSaldo: R$10477.0
+Ag: 81534   Conta: Conta ComumSaldo: R$11611.0
+Saldo Total: 22088.0
+
+
+
+CPF73898621550     FABIANE GOMES BARRETO
+Ag: 98574   Conta: PoupançaSaldo: R$7643.0
+Ag: 51488   Conta: Conta ComumSaldo: R$10021.0
+Saldo Total: 17664.0
+
+
+
+CPF06189593599     RENATO SARMENTO SARMENTO
+Ag: 62577   Conta: PoupançaSaldo: R$16103.0
+Ag: 24489   Conta: PoupançaSaldo: R$1829.0
+Ag: 62479   Conta: PoupançaSaldo: R$5688.0
+Saldo Total: 23620.0
+
+
+
+CPF26063904270     MIGUEL COUTINHO RANGEL
+Ag: 36409   Conta: Conta ComumSaldo: R$7204.0
+Saldo Total: 7204.0
+
+
+
+CPF 89290599015:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF55323426620     DANIEL LOPES
+Ag: 98362   Conta: Conta ComumSaldo: R$14028.0
+Saldo Total: 14028.0
+
+
+
+CPF54034013469     LETICIA GONCALVES GODOI DE SOUZA
+Ag: 37046   Conta: Conta ComumSaldo: R$13095.0
+Saldo Total: 13095.0
+
+
+
+CPF 66497369758:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF48128294355     IGOR MARTINS CUNHA PRATES
+Ag: 38451   Conta: PoupançaSaldo: R$7451.0
+Saldo Total: 7451.0
+
+
+
+CPF29165647371     TIAGO GARCIA VILELA DOS SANTOS
+Ag: 30656   Conta: PoupançaSaldo: R$4607.0
+Saldo Total: 4607.0
+
+
+
+CPF36194429402     RAFAELA MARQUES MARTINHO
+Ag: 88069   Conta: PoupançaSaldo: R$-1430.0
+Saldo Total: -1430.0
+
+
+
+CPF55087953149     LILIANE ABREU CRUZ CASTRO
+Ag: 71227   Conta: Conta ComumSaldo: R$5353.0
+Ag: 76774   Conta: Conta ComumSaldo: R$13026.0
+Saldo Total: 18379.0
+
+
+
+CPF99975555920     JOSE LOPES CARVALHO
+Ag: 96713   Conta: Conta ComumSaldo: R$7658.0
+Ag: 89356   Conta: Conta ComumSaldo: R$16147.0
+Ag: 56585   Conta: Conta ComumSaldo: R$8204.0
+Saldo Total: 32009.0
+
+
+
+CPF50842643037     MARCOS SILVEIRA NASCIMENTO
+Ag: 10258   Conta: Conta ComumSaldo: R$15411.0
+Saldo Total: 15411.0
+
+
+
+CPF14705672439     DAYSE CAVALCANTE DE PAULA MARQUES
+Ag: 55097   Conta: PoupançaSaldo: R$16218.0
+Saldo Total: 16218.0
+
+
+
+CPF02119399001     SUELI MAIA REZENDE MENEZES
+Ag: 72490   Conta: Conta ComumSaldo: R$3142.0
+Ag: 75393   Conta: PoupançaSaldo: R$1034.0
+Saldo Total: 4176.0
+
+
+
+CPF07905723185     KELLY CRUZ CAMILO CRUZ
+Ag: 16509   Conta: Conta ComumSaldo: R$12083.0
+Saldo Total: 12083.0
+
+
+
+CPF24204055599     REGINA NASCIMENTO BARRETO
+Ag: 66285   Conta: Conta ComumSaldo: R$-2330.0
+Saldo Total: -2330.0
+
+
+
+CPF64469111338     LARISSA MOREIRA MENEZES
+Ag: 65585   Conta: PoupançaSaldo: R$1746.0
+Ag: 50805   Conta: PoupançaSaldo: R$14822.0
+Ag: 3270   Conta: Conta ComumSaldo: R$16361.0
+Saldo Total: 32929.0
+
+
+
+CPF22385999627     MARIANA SA CASTRO
+Ag: 8569   Conta: PoupançaSaldo: R$15090.0
+Saldo Total: 15090.0
+
+
+
+CPF93215499648     FABIO DA SILVA FERNANDES GODOI
+Ag: 38128   Conta: Conta ComumSaldo: R$5404.0
+Saldo Total: 5404.0
+
+
+
+CPF 89056092129:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF60726474831     DIOGO ANDRADE GONCALVES
+Ag: 95004   Conta: PoupançaSaldo: R$12588.0
+Saldo Total: 12588.0
+
+
+
+CPF13731444857     JOSE CARLOS LOPES VIANNA COUTINHO
+Ag: 1844   Conta: Conta ComumSaldo: R$12119.0
+Ag: 29540   Conta: PoupançaSaldo: R$12328.0
+Saldo Total: 24447.0
+
+
+
+CPF13923486968     SIMONE MORAES CARVALHO
+Ag: 43857   Conta: PoupançaSaldo: R$13912.0
+Saldo Total: 13912.0
+
+
+
+CPF44149904707     DANIEL GUSMAO CUNHA VIANNA
+Ag: 87411   Conta: Conta EspecialSaldo: R$12774.0
+Saldo Total: 12774.0
+
+
+
+CPF 64642426075:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF72192144463     PAULO HENRIQUE SA
+Ag: 76818   Conta: Conta ComumSaldo: R$8275.0
+Saldo Total: 8275.0
+
+
+
+CPF 23887758194:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF16142471365     ANA MARIA CONCEICAO
+Ag: 57779   Conta: Conta ComumSaldo: R$7622.0
+Ag: 49   Conta: PoupançaSaldo: R$7291.0
+Saldo Total: 14913.0
+
+
+
+CPF88377185940     ROBERTO GOMES GARCIA
+Ag: 67851   Conta: PoupançaSaldo: R$-1648.0
+Ag: 94152   Conta: PoupançaSaldo: R$5439.0
+Saldo Total: 3791.0
+
+
+
+CPF14377271208     LUIZ CARLOS DA SILVA MARTINS GONCALVES
+Ag: 38923   Conta: Conta ComumSaldo: R$16747.0
+Ag: 77096   Conta: PoupançaSaldo: R$-774.0
+Saldo Total: 15973.0
+
+
+
+CPF54100163045     PAULO SERGIO DOS SANTOS TELLES
+Ag: 67867   Conta: PoupançaSaldo: R$5182.0
+Saldo Total: 5182.0
+
+
+
+CPF50405561602     BRUNA RODRIGUES RANGEL LOPES
+Ag: 32685   Conta: PoupançaSaldo: R$1714.0
+Ag: 4276   Conta: Conta ComumSaldo: R$16950.0
+Ag: 66236   Conta: PoupançaSaldo: R$3434.0
+Saldo Total: 22098.0
+
+
+
+CPF48330674362     ALEXANDRE COELHO COUTINHO VARGAS
+Ag: 92682   Conta: PoupançaSaldo: R$9093.0
+Saldo Total: 9093.0
+
+
+
+CPF 22781563090:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF55421937723     JOSE CARVALHO
+Ag: 31095   Conta: PoupançaSaldo: R$13554.0
+Saldo Total: 13554.0
+
+
+
+CPF 75983148164:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF80472091562     RENATA GUERRA
+Ag: 56189   Conta: Conta ComumSaldo: R$5437.0
+Saldo Total: 5437.0
+
+
+
+CPF07050235916     IOLANDA FERREIRA
+Ag: 70232   Conta: Conta ComumSaldo: R$5240.0
+Ag: 4477   Conta: Conta ComumSaldo: R$4349.0
+Saldo Total: 9589.0
+
+
+
+CPF37856840724     EDUARDO LOPES MACHADO COSTA
+Ag: 13155   Conta: Conta ComumSaldo: R$14513.0
+Ag: 41956   Conta: Conta ComumSaldo: R$14603.0
+Ag: 83771   Conta: Conta EspecialSaldo: R$-69.0
+Ag: 19211   Conta: PoupançaSaldo: R$-2496.0
+Saldo Total: 26551.0
+
+
+
+CPF 85437932055:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF37459100349     KELLY RIBEIRO FERREIRA LIMA
+Ag: 39304   Conta: Conta ComumSaldo: R$13197.0
+Ag: 48140   Conta: PoupançaSaldo: R$-1192.0
+Saldo Total: 12005.0
+
+
+
+CPF00538419263     LARISSA GALVAO ABREU
+Ag: 65377   Conta: PoupançaSaldo: R$13539.0
+Ag: 18311   Conta: PoupançaSaldo: R$-1518.0
+Saldo Total: 12021.0
+
+
+
+CPF77360493137     SERGIO MARQUES
+Ag: 23304   Conta: Conta ComumSaldo: R$10440.0
+Saldo Total: 10440.0
+
+
+
+CPF 22467396335:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF31019209800     OTAVIO GUERRA GODOI
+Ag: 67341   Conta: PoupançaSaldo: R$3099.0
+Ag: 49571   Conta: PoupançaSaldo: R$10617.0
+Saldo Total: 13716.0
+
+
+
+CPF20506594631     FABIO GOMES
+Ag: 39588   Conta: PoupançaSaldo: R$6281.0
+Ag: 32718   Conta: Conta EspecialSaldo: R$1786.0
+Ag: 43430   Conta: PoupançaSaldo: R$12749.0
+Ag: 48054   Conta: PoupançaSaldo: R$16981.0
+Saldo Total: 37797.0
+
+
+
+CPF78388754329     JULIO CESAR MAIA
+Ag: 89483   Conta: PoupançaSaldo: R$8092.0
+Saldo Total: 8092.0
+
+
+
+CPF 92278861533:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF27572335473     LUIZ ALBERTO LOPES MOREIRA CASTRO
+Ag: 28470   Conta: PoupançaSaldo: R$2220.0
+Ag: 40107   Conta: PoupançaSaldo: R$14531.0
+Ag: 69280   Conta: PoupançaSaldo: R$1423.0
+Ag: 56887   Conta: PoupançaSaldo: R$5129.0
+Saldo Total: 23303.0
+
+
+
+CPF38795825296     IEDA VILELA
+Ag: 21284   Conta: PoupançaSaldo: R$-703.0
+Saldo Total: -703.0
+
+
+
+CPF47689267000     AGENOR ALVES CAMILO GOMES
+Ag: 50752   Conta: Conta ComumSaldo: R$13621.0
+Saldo Total: 13621.0
+
+
+
+CPF 88144086658:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF32192640524     FABIANE VARGAS GUSMAO LOPES
+Ag: 7465   Conta: PoupançaSaldo: R$9661.0
+Saldo Total: 9661.0
+
+
+
+CPF91823729112     JOAO LIMA MOURA OLIVEIRA
+Ag: 17853   Conta: PoupançaSaldo: R$15708.0
+Saldo Total: 15708.0
+
+
+
+CPF77463611869     JULIO CESAR RIBEIRO CARVALHO SANTOS
+Ag: 68027   Conta: PoupançaSaldo: R$-150.0
+Saldo Total: -150.0
+
+
+
+CPF97361922452     IOLANDA MARQUES
+Ag: 40637   Conta: Conta ComumSaldo: R$3020.0
+Saldo Total: 3020.0
+
+
+
+CPF53907474065     LORENA DIAS
+Ag: 95477   Conta: Conta ComumSaldo: R$5620.0
+Saldo Total: 5620.0
+
+
+
+CPF17578214522     MARIANA BATISTA GALVAO
+Ag: 61974   Conta: PoupançaSaldo: R$11221.0
+Saldo Total: 11221.0
+
+
+
+CPF 41319376945:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF98106988745     LUCIANO DE SOUZA SARMENTO MARTINHO
+Ag: 26198   Conta: Conta EspecialSaldo: R$2915.0
+Saldo Total: 2915.0
+
+
+
+CPF05706819511     JOAO MOURA ROCHA ANDRADE
+Ag: 35924   Conta: Conta ComumSaldo: R$11493.0
+Saldo Total: 11493.0
+
+
+
+CPF06360535791     NATALIA COELHO LOPES
+Ag: 52823   Conta: Conta ComumSaldo: R$1655.0
+Saldo Total: 1655.0
+
+
+
+CPF36789496548     LUIZ ALVES
+Ag: 27890   Conta: PoupançaSaldo: R$7357.0
+Ag: 99754   Conta: Conta ComumSaldo: R$-1076.0
+Ag: 289   Conta: Conta ComumSaldo: R$-2624.0
+Saldo Total: 3657.0
+
+
+
+CPF45072811783     PAULO AUGUSTO GONCALVES NOGUEIRA
+Ag: 24880   Conta: PoupançaSaldo: R$12098.0
+Saldo Total: 12098.0
+
+
+
+CPF52513396512     MARIA JOSE MOURA FERREIRA
+Ag: 39185   Conta: PoupançaSaldo: R$11179.0
+Ag: 95772   Conta: Conta ComumSaldo: R$7629.0
+Ag: 73451   Conta: Conta ComumSaldo: R$10527.0
+Saldo Total: 29335.0
+
+
+
+CPF 37931323179:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF60373951526     ALEXANDRE BATISTA
+Ag: 7101   Conta: PoupançaSaldo: R$15679.0
+Saldo Total: 15679.0
+
+
+
+CPF07567608019     SUELI GONCALVES MARTINHO
+Ag: 76658   Conta: Conta ComumSaldo: R$4695.0
+Ag: 42219   Conta: Conta ComumSaldo: R$-303.0
+Saldo Total: 4392.0
+
+
+
+CPF 13079582726:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF72013498606     ROBSON RANGEL
+Ag: 3213   Conta: Conta ComumSaldo: R$-1039.0
+Saldo Total: -1039.0
+
+
+
+CPF35932858136     ISABEL RIBEIRO
+Ag: 38899   Conta: PoupançaSaldo: R$16189.0
+Ag: 55110   Conta: PoupançaSaldo: R$1094.0
+Saldo Total: 17283.0
+
+
+
+CPF05955649064     MIGUEL COSTA MOREIRA
+Ag: 49179   Conta: PoupançaSaldo: R$10463.0
+Saldo Total: 10463.0
+
+
+
+CPF38187197050     DANIELE VARGAS SILVEIRA
+Ag: 20150   Conta: Conta EspecialSaldo: R$15751.0
+Saldo Total: 15751.0
+
+
+
+CPF34055213230     JULIO CESAR MARTINS GALVAO GALVAO
+Ag: 49269   Conta: PoupançaSaldo: R$8692.0
+Saldo Total: 8692.0
+
+
+
+CPF84975019000     RUBENS MENEZES
+Ag: 71902   Conta: PoupançaSaldo: R$3089.0
+Ag: 78122   Conta: Conta ComumSaldo: R$8142.0
+Saldo Total: 11231.0
+
+
+
+CPF33396314892     ALESSANDRO DUARTE
+Ag: 56673   Conta: Conta ComumSaldo: R$15755.0
+Ag: 55310   Conta: Conta ComumSaldo: R$5142.0
+Ag: 82060   Conta: PoupançaSaldo: R$13304.0
+Ag: 98622   Conta: Conta ComumSaldo: R$3446.0
+Saldo Total: 37647.0
+
+
+
+CPF80176084762     HENRIQUE BARRETO
+Ag: 5661   Conta: PoupançaSaldo: R$10988.0
+Ag: 98808   Conta: PoupançaSaldo: R$3374.0
+Saldo Total: 14362.0
+
+
+
+CPF43443676240     LUIS MARQUES GARCIA GONCALVES
+Ag: 34583   Conta: Conta ComumSaldo: R$16608.0
+Saldo Total: 16608.0
+
+
+
+CPF97119719258     CARLOS OLIVEIRA RIBEIRO
+Ag: 31446   Conta: Conta EspecialSaldo: R$14636.0
+Saldo Total: 14636.0
+
+
+
+CPF90653040886     MELISSA DUARTE CUNHA
+Ag: 61867   Conta: PoupançaSaldo: R$12626.0
+Saldo Total: 12626.0
+
+
+
+CPF03560311416     VALERIA GALVAO GUSMAO CARVALHO
+Ag: 76912   Conta: Conta ComumSaldo: R$12357.0
+Ag: 19739   Conta: PoupançaSaldo: R$7211.0
+Saldo Total: 19568.0
+
+
+
+CPF22340225587     ANA CARLA LOPES COELHO SANTOS
+Ag: 18891   Conta: PoupançaSaldo: R$12344.0
+Ag: 3305   Conta: Conta ComumSaldo: R$11230.0
+Saldo Total: 23574.0
+
+
+
+CPF73722798750     MILTON SILVA MARTINS
+Ag: 52039   Conta: PoupançaSaldo: R$14113.0
+Saldo Total: 14113.0
+
+
+
+CPF74225779542     JOSE AUGUSTO CAVALCANTE MENEZES
+Ag: 88174   Conta: Conta EspecialSaldo: R$1556.0
+Ag: 91141   Conta: Conta EspecialSaldo: R$14954.0
+Ag: 36443   Conta: Conta ComumSaldo: R$10317.0
+Ag: 56713   Conta: Conta ComumSaldo: R$5609.0
+Ag: 48504   Conta: PoupançaSaldo: R$14850.0
+Saldo Total: 47286.0
+
+
+
+CPF 08427158291:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF73819388995     MARIA JOSE SARMENTO
+Ag: 1965   Conta: PoupançaSaldo: R$2801.0
+Saldo Total: 2801.0
+
+
+
+CPF17322796719     BRUNO PRATES GARCIA
+Ag: 74483   Conta: PoupançaSaldo: R$16682.0
+Saldo Total: 16682.0
+
+
+
+CPF 87886949963:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF25707799044     JOAO MACHADO
+Ag: 52033   Conta: PoupançaSaldo: R$-1892.0
+Saldo Total: -1892.0
+
+
+
+CPF42540677133     LETICIA COUTINHO TELLES COSTA
+Ag: 76159   Conta: PoupançaSaldo: R$4850.0
+Saldo Total: 4850.0
+
+
+
+CPF41413445077     KELLY MORAES VARGAS MELLO
+Ag: 44756   Conta: Conta ComumSaldo: R$8331.0
+Saldo Total: 8331.0
+
+
+
+CPF33937214677     BRUNA CARVALHO
+Ag: 24616   Conta: PoupançaSaldo: R$6181.0
+Saldo Total: 6181.0
+
+
+
+CPF41565329855     ADILSON VIEIRA
+Ag: 30433   Conta: Conta ComumSaldo: R$5070.0
+Ag: 65704   Conta: Conta ComumSaldo: R$9724.0
+Ag: 43239   Conta: Conta ComumSaldo: R$2670.0
+Saldo Total: 17464.0
+
+
+
+CPF11984308823     AGENOR MARTINS
+Ag: 12066   Conta: PoupançaSaldo: R$5235.0
+Saldo Total: 5235.0
+
+
+
+CPF11498103587     FLAVIO GONCALVES
+Ag: 28485   Conta: Conta ComumSaldo: R$5339.0
+Saldo Total: 5339.0
+
+
+
+CPF96465108354     TEREZA MARQUES
+Ag: 63924   Conta: PoupançaSaldo: R$6010.0
+Saldo Total: 6010.0
+
+
+
+CPF88721546301     RODOLFO CARVALHO CONCEICAO
+Ag: 10523   Conta: Conta ComumSaldo: R$4958.0
+Ag: 83349   Conta: PoupançaSaldo: R$12600.0
+Ag: 35094   Conta: PoupançaSaldo: R$-2758.0
+Saldo Total: 14800.0
+
+
+
+CPF55343250081     LORENA COSTA MACHADO
+Ag: 7615   Conta: PoupançaSaldo: R$-2445.0
+Saldo Total: -2445.0
+
+
+
+CPF 48234493436:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF26609387584     MARIANA MORAES COSME GUSMAO
+Ag: 46296   Conta: PoupançaSaldo: R$5560.0
+Saldo Total: 5560.0
+
+
+
+CPF22464880354     NEY COSME MAIA GOMES
+Ag: 66905   Conta: PoupançaSaldo: R$5458.0
+Ag: 1324   Conta: PoupançaSaldo: R$2214.0
+Saldo Total: 7672.0
+
+
+
+CPF23953847502     LILIAN ANDRADE TELLES
+Ag: 51626   Conta: PoupançaSaldo: R$6499.0
+Ag: 14246   Conta: PoupançaSaldo: R$16880.0
+Ag: 27218   Conta: Conta ComumSaldo: R$48.0
+Saldo Total: 23427.0
+
+
+
+CPF37898359894     FABIO COSME NASCIMENTO CRUZ
+Ag: 11555   Conta: PoupançaSaldo: R$5786.0
+Saldo Total: 5786.0
+
+
+
+CPF46097237340     NIVALDO REZENDE RODRIGUES
+Ag: 23376   Conta: PoupançaSaldo: R$10137.0
+Saldo Total: 10137.0
+
+
+
+CPF81972170569     BRENO VARGAS FERNANDES
+Ag: 71297   Conta: Conta EspecialSaldo: R$4655.0
+Saldo Total: 4655.0
+
+
+
+CPF 63445224963:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF90136150192     TADEU FERNANDES COSTA
+Ag: 6693   Conta: PoupançaSaldo: R$903.0
+Saldo Total: 903.0
+
+
+
+CPF20989124641     JOSE CUNHA
+Ag: 31531   Conta: PoupançaSaldo: R$594.0
+Ag: 67427   Conta: Conta ComumSaldo: R$-1590.0
+Saldo Total: -996.0
+
+
+
+CPF 27210776195:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 26293440311:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF57284997230     ELIZABETH GODOI
+Ag: 59765   Conta: Conta ComumSaldo: R$12394.0
+Ag: 21108   Conta: PoupançaSaldo: R$2879.0
+Saldo Total: 15273.0
+
+
+
+CPF68042247045     WILLIAN DIAS
+Ag: 56781   Conta: Conta ComumSaldo: R$11530.0
+Ag: 30574   Conta: Conta EspecialSaldo: R$8735.0
+Saldo Total: 20265.0
+
+
+
+CPF72776579102     MOACIR GARCIA
+Ag: 26307   Conta: Conta ComumSaldo: R$11293.0
+Saldo Total: 11293.0
+
+
+
+CPF58891957464     DIOGO OLIVEIRA PRATES
+Ag: 30483   Conta: Conta ComumSaldo: R$825.0
+Saldo Total: 825.0
+
+
+
+CPF58266127478     WILLIAN TELLES
+Ag: 3327   Conta: PoupançaSaldo: R$-476.0
+Ag: 55269   Conta: Conta ComumSaldo: R$12334.0
+Saldo Total: 11858.0
+
+
+
+CPF73952122324     RICARDO CUNHA COSTA
+Ag: 61484   Conta: Conta ComumSaldo: R$4160.0
+Ag: 5941   Conta: Conta ComumSaldo: R$5665.0
+Saldo Total: 9825.0
+
+
+
+CPF63645184197     ANA MARIA SARMENTO GALVAO
+Ag: 74571   Conta: Conta ComumSaldo: R$5036.0
+Saldo Total: 5036.0
+
+
+
+CPF73649625593     ANA BEATRIZ GONCALVES FERREIRA
+Ag: 2838   Conta: PoupançaSaldo: R$-2535.0
+Saldo Total: -2535.0
+
+
+
+CPF30828071101     JAQUELINE CARVALHO VARGAS
+Ag: 34006   Conta: PoupançaSaldo: R$9875.0
+Saldo Total: 9875.0
+
+
+
+CPF87570143258     ADILSON GARCIA GUSMAO
+Ag: 15691   Conta: Conta ComumSaldo: R$-2495.0
+Saldo Total: -2495.0
+
+
+
+CPF24490434997     NIVALDO MARTINS CUNHA GOMES
+Ag: 80836   Conta: Conta ComumSaldo: R$9926.0
+Ag: 26668   Conta: Conta ComumSaldo: R$1813.0
+Saldo Total: 11739.0
+
+
+
+CPF82684431246     ALVARO GUERRA
+Ag: 25389   Conta: Conta ComumSaldo: R$316.0
+Saldo Total: 316.0
+
+
+
+CPF94939800559     ALESSANDRO DUARTE LOPES
+Ag: 46385   Conta: PoupançaSaldo: R$11606.0
+Saldo Total: 11606.0
+
+
+
+CPF83696425258     OLGA GALVAO DUARTE MOREIRA
+Ag: 61710   Conta: Conta ComumSaldo: R$705.0
+Saldo Total: 705.0
+
+
+
+CPF93213420126     LORENA GALVAO GODOI
+Ag: 3718   Conta: Conta ComumSaldo: R$6825.0
+Saldo Total: 6825.0
+
+
+
+CPF68795998013     ADILSON SA
+Ag: 94705   Conta: Conta ComumSaldo: R$10382.0
+Saldo Total: 10382.0
+
+
+
+CPF 57665312045:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF36896825730     CARLOS MARTINS
+Ag: 26150   Conta: PoupançaSaldo: R$6566.0
+Saldo Total: 6566.0
+
+
+
+CPF83895327314     IGOR ALVES CASTRO
+Ag: 96453   Conta: Conta ComumSaldo: R$-1396.0
+Saldo Total: -1396.0
+
+
+
+CPF24733565852     NILTON ROCHA DOS SANTOS
+Ag: 49170   Conta: Conta EspecialSaldo: R$14019.0
+Ag: 33331   Conta: PoupançaSaldo: R$16499.0
+Saldo Total: 30518.0
+
+
+
+CPF40516367476     LARISSA FERREIRA
+Ag: 82009   Conta: PoupançaSaldo: R$12183.0
+Ag: 55838   Conta: Conta ComumSaldo: R$3668.0
+Ag: 13487   Conta: PoupançaSaldo: R$13453.0
+Saldo Total: 29304.0
+
+
+
+CPF81777102228     ADRIANO VIEIRA
+Ag: 62887   Conta: Conta ComumSaldo: R$460.0
+Ag: 97219   Conta: PoupançaSaldo: R$4929.0
+Ag: 71190   Conta: PoupançaSaldo: R$2292.0
+Saldo Total: 7681.0
+
+
+
+CPF69175663640     LILIAN COELHO
+Ag: 99051   Conta: PoupançaSaldo: R$11105.0
+Ag: 68065   Conta: Conta EspecialSaldo: R$8346.0
+Saldo Total: 19451.0
+
+
+
+CPF54695406640     SUELI VARGAS
+Ag: 20680   Conta: PoupançaSaldo: R$13731.0
+Ag: 9579   Conta: PoupançaSaldo: R$-621.0
+Saldo Total: 13110.0
+
+
+
+CPF94009457976     MARIA GODOI
+Ag: 15749   Conta: PoupançaSaldo: R$16528.0
+Saldo Total: 16528.0
+
+
+
+CPF 46269850255:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF87357025363     PAULO AUGUSTO ALVES
+Ag: 55056   Conta: Conta ComumSaldo: R$9509.0
+Saldo Total: 9509.0
+
+
+
+CPF82829779987     FLAVIO CARVALHO
+Ag: 13190   Conta: Conta ComumSaldo: R$11736.0
+Ag: 41642   Conta: PoupançaSaldo: R$11915.0
+Saldo Total: 23651.0
+
+
+
+CPF28915102030     JOSE SILVEIRA
+Ag: 23509   Conta: Conta ComumSaldo: R$-878.0
+Saldo Total: -878.0
+
+
+
+CPF98868166918     AGENOR CAVALCANTE VIEIRA MAIA
+Ag: 99682   Conta: PoupançaSaldo: R$7619.0
+Saldo Total: 7619.0
+
+
+
+CPF10330176486     JAQUELINE GODOI GUERRA ROMAO
+Ag: 89953   Conta: PoupançaSaldo: R$10033.0
+Saldo Total: 10033.0
+
+
+
+CPF51757630087     CRISTOVAO OLIVEIRA
+Ag: 46857   Conta: PoupançaSaldo: R$-2433.0
+Ag: 70783   Conta: PoupançaSaldo: R$14197.0
+Ag: 97636   Conta: Conta ComumSaldo: R$11772.0
+Saldo Total: 23536.0
+
+
+
+CPF44496664667     KELLY RANGEL GALVAO MACHADO
+Ag: 45889   Conta: Conta ComumSaldo: R$1180.0
+Ag: 78893   Conta: PoupançaSaldo: R$16204.0
+Saldo Total: 17384.0
+
+
+
+CPF20195987266     ANA CARLA MAIA LIMA COSTA
+Ag: 31978   Conta: Conta EspecialSaldo: R$12867.0
+Saldo Total: 12867.0
+
+
+
+CPF82003865663     MARCOS SOUZA DA SILVA GODOI
+Ag: 49583   Conta: Conta ComumSaldo: R$4469.0
+Saldo Total: 4469.0
+
+
+
+CPF09429187379     HENRIQUE MENEZES
+Ag: 4491   Conta: Conta ComumSaldo: R$10222.0
+Saldo Total: 10222.0
+
+
+
+CPF22650907066     ALTAIR SARMENTO
+Ag: 43436   Conta: Conta ComumSaldo: R$10130.0
+Saldo Total: 10130.0
+
+
+
+CPF 20487236095:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF41094861719     FLAVIA VIANNA CONCEICAO
+Ag: 59885   Conta: Conta ComumSaldo: R$10773.0
+Saldo Total: 10773.0
+
+
+
+CPF84729174005     ELIZABETH MORAES
+Ag: 60956   Conta: Conta ComumSaldo: R$10294.0
+Ag: 85849   Conta: Conta ComumSaldo: R$10636.0
+Ag: 58167   Conta: PoupançaSaldo: R$1607.0
+Saldo Total: 22537.0
+
+
+
+CPF94233939539     DIANA CRUZ MOURA
+Ag: 72152   Conta: PoupançaSaldo: R$1434.0
+Ag: 18163   Conta: PoupançaSaldo: R$2070.0
+Ag: 17903   Conta: Conta EspecialSaldo: R$10948.0
+Ag: 2840   Conta: Conta ComumSaldo: R$11189.0
+Ag: 43843   Conta: Conta ComumSaldo: R$12365.0
+Saldo Total: 38006.0
+
+
+
+CPF68380577188     DIOGO GODOI MAIA
+Ag: 98449   Conta: Conta ComumSaldo: R$2265.0
+Saldo Total: 2265.0
+
+
+
+CPF39096575022     ISABEL REZENDE ABREU
+Ag: 62205   Conta: Conta ComumSaldo: R$13381.0
+Ag: 92764   Conta: PoupançaSaldo: R$-1290.0
+Ag: 54512   Conta: Conta ComumSaldo: R$10267.0
+Ag: 27148   Conta: Conta ComumSaldo: R$14791.0
+Saldo Total: 37149.0
+
+
+
+CPF 79564479019:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF50396668914     MARIA DA PENHA REZENDE GODOI
+Ag: 92476   Conta: Conta ComumSaldo: R$-333.0
+Saldo Total: -333.0
+
+
+
+CPF44858036664     ALESSANDRO SILVA CARVALHO
+Ag: 29518   Conta: PoupançaSaldo: R$2232.0
+Saldo Total: 2232.0
+
+
+
+CPF13471463866     ATILA MAIA COELHO
+Ag: 17189   Conta: Conta ComumSaldo: R$2530.0
+Ag: 63179   Conta: Conta ComumSaldo: R$14496.0
+Ag: 72846   Conta: Conta ComumSaldo: R$746.0
+Saldo Total: 17772.0
+
+
+
+CPF80830301654     TADEU RANGEL
+Ag: 78107   Conta: PoupançaSaldo: R$-951.0
+Saldo Total: -951.0
+
+
+
+CPF44693811942     KELLY FERREIRA VIEIRA
+Ag: 62753   Conta: PoupançaSaldo: R$11004.0
+Ag: 44156   Conta: Conta ComumSaldo: R$1903.0
+Ag: 80988   Conta: PoupançaSaldo: R$4177.0
+Saldo Total: 17084.0
+
+
+
+CPF 96917067408:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF76371728532     MIRIAN RIBEIRO LIMA
+Ag: 23591   Conta: PoupançaSaldo: R$15330.0
+Ag: 1876   Conta: Conta ComumSaldo: R$-2847.0
+Ag: 82292   Conta: Conta ComumSaldo: R$8134.0
+Ag: 89619   Conta: Conta ComumSaldo: R$4418.0
+Saldo Total: 25035.0
+
+
+
+CPF 43448452360:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF97899511250     ROBSON VIANNA
+Ag: 84788   Conta: Conta ComumSaldo: R$16815.0
+Saldo Total: 16815.0
+
+
+
+CPF 98656021150:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF32751211158     GIOAVANA CUNHA GALVAO
+Ag: 62539   Conta: Conta ComumSaldo: R$1227.0
+Ag: 27641   Conta: Conta ComumSaldo: R$9096.0
+Ag: 52266   Conta: PoupançaSaldo: R$10925.0
+Ag: 44279   Conta: Conta ComumSaldo: R$838.0
+Saldo Total: 22086.0
+
+
+
+CPF78361478158     LUCIANO MACHADO DIAS
+Ag: 85458   Conta: PoupançaSaldo: R$16821.0
+Saldo Total: 16821.0
+
+
+
+CPF98702968587     CRISTIANE LIMA GUERRA RIBEIRO
+Ag: 32640   Conta: PoupançaSaldo: R$-1239.0
+Ag: 59097   Conta: Conta ComumSaldo: R$6801.0
+Ag: 70127   Conta: Conta ComumSaldo: R$3582.0
+Saldo Total: 9144.0
+
+
+
+CPF14297699178     FABIO RANGEL SILVA
+Ag: 77019   Conta: PoupançaSaldo: R$3013.0
+Saldo Total: 3013.0
+
+
+
+CPF11085139575     PAULO HENRIQUE PRATES CONCEICAO
+Ag: 88400   Conta: Conta ComumSaldo: R$341.0
+Ag: 97508   Conta: PoupançaSaldo: R$4660.0
+Saldo Total: 5001.0
+
+
+
+CPF63357812499     LUCIANA SARMENTO
+Ag: 87466   Conta: PoupançaSaldo: R$10943.0
+Saldo Total: 10943.0
+
+
+
+CPF67605966050     PAULO SERGIO CUNHA GOMES ABREU
+Ag: 53445   Conta: Conta ComumSaldo: R$5192.0
+Saldo Total: 5192.0
+
+
+
+CPF66555877920     IGOR DUARTE
+Ag: 28917   Conta: PoupançaSaldo: R$7637.0
+Ag: 6757   Conta: Conta ComumSaldo: R$2709.0
+Ag: 58907   Conta: Conta ComumSaldo: R$7073.0
+Ag: 44927   Conta: Conta ComumSaldo: R$13551.0
+Saldo Total: 30970.0
+
+
+
+CPF51856422581     FLAVIA GOMES
+Ag: 83263   Conta: PoupançaSaldo: R$-949.0
+Saldo Total: -949.0
+
+
+
+CPF27119448863     MIGUEL VILELA
+Ag: 53780   Conta: Conta ComumSaldo: R$8878.0
+Saldo Total: 8878.0
+
+
+
+CPF44337201046     DIANA SOUZA
+Ag: 13986   Conta: Conta ComumSaldo: R$15099.0
+Saldo Total: 15099.0
+
+
+
+CPF73443507779     CRISTIANO ALVES
+Ag: 79270   Conta: PoupançaSaldo: R$14309.0
+Saldo Total: 14309.0
+
+
+
+CPF54861865852     LUCIANO ANDRADE CARVALHO ALVES
+Ag: 70406   Conta: Conta ComumSaldo: R$627.0
+Saldo Total: 627.0
+
+
+
+CPF38015359510     RUBENS CRUZ VIEIRA GOMES
+Ag: 50854   Conta: Conta ComumSaldo: R$1047.0
+Saldo Total: 1047.0
+
+
+
+CPF25328868317     JAQUELINE NOGUEIRA MORAES ALVES
+Ag: 81304   Conta: Conta ComumSaldo: R$4287.0
+Saldo Total: 4287.0
+
+
+
+CPF92380199177     ANA CRISTINA COSTA
+Ag: 8674   Conta: Conta ComumSaldo: R$-2184.0
+Ag: 43699   Conta: Conta ComumSaldo: R$15525.0
+Saldo Total: 13341.0
+
+
+
+CPF85958622859     CRISTOVAO RODRIGUES GODOI
+Ag: 2682   Conta: Conta EspecialSaldo: R$4437.0
+Ag: 70554   Conta: Conta ComumSaldo: R$7347.0
+Saldo Total: 11784.0
+
+
+
+CPF44186234903     LILIAN DE PAULA CONCEICAO SARMENTO
+Ag: 10051   Conta: PoupançaSaldo: R$11048.0
+Saldo Total: 11048.0
+
+
+
+CPF02964899843     JAQUELINE ABREU VILELA
+Ag: 82250   Conta: Conta ComumSaldo: R$9095.0
+Saldo Total: 9095.0
+
+
+
+CPF 48234493436:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF92076078972     HENRIQUE CAMILO CRUZ
+Ag: 22781   Conta: PoupançaSaldo: R$2844.0
+Ag: 88048   Conta: Conta ComumSaldo: R$-967.0
+Saldo Total: 1877.0
+
+
+
+CPF66756471610     MAURO RODRIGUES NOGUEIRA NOGUEIRA
+Ag: 81339   Conta: Conta ComumSaldo: R$6775.0
+Saldo Total: 6775.0
+
+
+
+CPF06910018750     GILBERTO CAMILO
+Ag: 84117   Conta: Conta ComumSaldo: R$11040.0
+Saldo Total: 11040.0
+
+
+
+CPF04690599469     ALTAIR MOREIRA FERNANDES
+Ag: 74730   Conta: Conta ComumSaldo: R$11736.0
+Saldo Total: 11736.0
+
+
+
+CPF37600269739     MARIA VILELA SOUZA
+Ag: 88633   Conta: Conta ComumSaldo: R$16193.0
+Ag: 54486   Conta: Conta ComumSaldo: R$8970.0
+Ag: 27259   Conta: PoupançaSaldo: R$16847.0
+Saldo Total: 42010.0
+
+
+
+CPF08141108743     CRISTINA PRATES
+Ag: 54751   Conta: PoupançaSaldo: R$13734.0
+Saldo Total: 13734.0
+
+
+
+CPF14042986891     SUELI CAVALCANTE GODOI
+Ag: 88313   Conta: Conta ComumSaldo: R$5313.0
+Saldo Total: 5313.0
+
+
+
+CPF16376293292     ALEXANDRE MARQUES COSTA
+Ag: 50684   Conta: Conta ComumSaldo: R$1610.0
+Saldo Total: 1610.0
+
+
+
+CPF82351948605     ELIANE COUTINHO OLIVEIRA BARRETO
+Ag: 77501   Conta: Conta ComumSaldo: R$10829.0
+Saldo Total: 10829.0
+
+
+
+CPF22975438028     ELIAS SARMENTO GUERRA GODOI
+Ag: 87549   Conta: Conta ComumSaldo: R$15547.0
+Saldo Total: 15547.0
+
+
+
+CPF57638356539     EMERSON REZENDE COSME
+Ag: 99169   Conta: PoupançaSaldo: R$12563.0
+Saldo Total: 12563.0
+
+
+
+CPF 63465222969:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF32923149679     DANIELE MAIA GONCALVES SA
+Ag: 25406   Conta: PoupançaSaldo: R$15246.0
+Saldo Total: 15246.0
+
+
+
+CPF40190126138     NIVALDO DOS SANTOS SILVA RIBEIRO
+Ag: 2968   Conta: PoupançaSaldo: R$5772.0
+Saldo Total: 5772.0
+
+
+
+CPF 49667631194:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF89300332815     RICARDO CARVALHO RIBEIRO REZENDE
+Ag: 33223   Conta: PoupançaSaldo: R$-467.0
+Ag: 21181   Conta: Conta ComumSaldo: R$5732.0
+Ag: 58135   Conta: PoupançaSaldo: R$16753.0
+Saldo Total: 22018.0
+
+
+
+CPF 21978372537:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF76835250181     CARLA RODRIGUES MACHADO
+Ag: 67135   Conta: Conta ComumSaldo: R$-184.0
+Saldo Total: -184.0
+
+
+
+CPF13920769950     CRISTIANE RODRIGUES FERNANDES
+Ag: 60540   Conta: Conta ComumSaldo: R$602.0
+Saldo Total: 602.0
+
+
+
+CPF81251847820     OTAVIANO CUNHA
+Ag: 51591   Conta: PoupançaSaldo: R$13813.0
+Saldo Total: 13813.0
+
+
+
+CPF31622857129     GIOAVANA CARVALHO CUNHA LIMA
+Ag: 45744   Conta: PoupançaSaldo: R$5361.0
+Saldo Total: 5361.0
+
+
+
+CPF22301843922     AGENOR NOGUEIRA DOS SANTOS
+Ag: 38124   Conta: Conta ComumSaldo: R$3031.0
+Saldo Total: 3031.0
+
+
+
+CPF16638173707     NEY MENEZES
+Ag: 72755   Conta: Conta EspecialSaldo: R$13288.0
+Ag: 22023   Conta: PoupançaSaldo: R$6102.0
+Saldo Total: 19390.0
+
+
+
+CPF56596767604     ELIANE BARRETO CAMILO
+Ag: 63750   Conta: PoupançaSaldo: R$15158.0
+Saldo Total: 15158.0
+
+
+
+CPF41503632607     WALACE SA
+Ag: 73184   Conta: PoupançaSaldo: R$11757.0
+Saldo Total: 11757.0
+
+
+
+CPF79854376113     EDUARDO ALVES CAVALCANTE GOMES
+Ag: 9215   Conta: PoupançaSaldo: R$16039.0
+Saldo Total: 16039.0
+
+
+
+CPF 36094180373:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF02623289128     PAULO SERGIO DA SILVA
+Ag: 85139   Conta: PoupançaSaldo: R$2998.0
+Saldo Total: 2998.0
+
+
+
+CPF98488012635     DIOGO PRATES CONCEICAO
+Ag: 29714   Conta: PoupançaSaldo: R$15364.0
+Ag: 33515   Conta: Conta ComumSaldo: R$11597.0
+Saldo Total: 26961.0
+
+
+
+CPF97793865620     OTAVIANO GUERRA
+Ag: 94484   Conta: PoupançaSaldo: R$14662.0
+Ag: 92662   Conta: Conta ComumSaldo: R$757.0
+Saldo Total: 15419.0
+
+
+
+CPF52043320368     CRISTIANE ROMAO ROMAO OLIVEIRA
+Ag: 67312   Conta: Conta ComumSaldo: R$7692.0
+Ag: 51860   Conta: Conta ComumSaldo: R$9847.0
+Saldo Total: 17539.0
+
+
+
+CPF84691807407     WILLIAN COUTINHO SA
+Ag: 8062   Conta: PoupançaSaldo: R$4047.0
+Saldo Total: 4047.0
+
+
+
+CPF15671087330     OTAVIO RANGEL RIBEIRO
+Ag: 14005   Conta: PoupançaSaldo: R$11101.0
+Saldo Total: 11101.0
+
+
+
+CPF 80990181770:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF87521242434     RAFAEL MOURA MELLO
+Ag: 44269   Conta: PoupançaSaldo: R$5644.0
+Saldo Total: 5644.0
+
+
+
+CPF 40214010201:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF65784826463     FLAVIO ANDRADE
+Ag: 54931   Conta: PoupançaSaldo: R$14533.0
+Saldo Total: 14533.0
+
+
+
+CPF83236896519     IGOR RIBEIRO GONCALVES
+Ag: 33630   Conta: Conta ComumSaldo: R$491.0
+Ag: 74976   Conta: PoupançaSaldo: R$-802.0
+Saldo Total: -311.0
+
+
+
+CPF 97797359709:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF83053624128     PAULA GUERRA TELLES
+Ag: 21015   Conta: PoupançaSaldo: R$7786.0
+Saldo Total: 7786.0
+
+
+
+CPF 59997325155:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF59663473913     ANTONIO BATISTA VIEIRA GALVAO
+Ag: 61440   Conta: PoupançaSaldo: R$3550.0
+Ag: 29794   Conta: Conta ComumSaldo: R$14458.0
+Ag: 91218   Conta: Conta ComumSaldo: R$4722.0
+Ag: 8451   Conta: Conta ComumSaldo: R$5483.0
+Ag: 60154   Conta: Conta ComumSaldo: R$3185.0
+Saldo Total: 31398.0
+
+
+
+CPF52424244997     MELINA COELHO
+Ag: 15146   Conta: Conta ComumSaldo: R$9614.0
+Saldo Total: 9614.0
+
+
+
+CPF56621733211     ALVARO MAIA COSME
+Ag: 25734   Conta: Conta EspecialSaldo: R$4548.0
+Ag: 32942   Conta: PoupançaSaldo: R$4948.0
+Saldo Total: 9496.0
+
+
+
+CPF 56066429934:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF39863219522     BRUNA RODRIGUES MOURA CRUZ
+Ag: 1950   Conta: PoupançaSaldo: R$4297.0
+Ag: 81807   Conta: Conta ComumSaldo: R$6823.0
+Saldo Total: 11120.0
+
+
+
+CPF11130693597     CRISTOVAO SILVA
+Ag: 21587   Conta: PoupançaSaldo: R$16310.0
+Saldo Total: 16310.0
+
+
+
+CPF33864089662     LUCIO RIBEIRO
+Ag: 38224   Conta: PoupançaSaldo: R$-886.0
+Saldo Total: -886.0
+
+
+
+CPF71899853553     OTAVIO CARVALHO CAMILO GALVAO
+Ag: 90499   Conta: PoupançaSaldo: R$-1762.0
+Saldo Total: -1762.0
+
+
+
+CPF49575753102     LUIZ CUNHA COUTINHO
+Ag: 92959   Conta: Conta EspecialSaldo: R$12117.0
+Saldo Total: 12117.0
+
+
+
+CPF85560881347     JULIO CESAR CAVALCANTE COELHO
+Ag: 51591   Conta: PoupançaSaldo: R$5251.0
+Ag: 30776   Conta: Conta ComumSaldo: R$2561.0
+Saldo Total: 7812.0
+
+
+
+CPF17970441221     LUCIANA MARTINHO SILVEIRA
+Ag: 28934   Conta: PoupançaSaldo: R$8298.0
+Saldo Total: 8298.0
+
+
+
+CPF93818464105     DIANA DE SOUZA MAIA
+Ag: 36511   Conta: Conta EspecialSaldo: R$3758.0
+Ag: 32799   Conta: PoupançaSaldo: R$13100.0
+Saldo Total: 16858.0
+
+
+
+CPF31634615392     CRISTOVAO DUARTE VIANNA GODOI
+Ag: 43871   Conta: Conta ComumSaldo: R$15621.0
+Saldo Total: 15621.0
+
+
+
+CPF46829443752     ANA GOMES VIANNA
+Ag: 29107   Conta: Conta ComumSaldo: R$6551.0
+Saldo Total: 6551.0
+
+
+
+CPF 38410028694:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF66372828365     MAURO SA
+Ag: 29693   Conta: PoupançaSaldo: R$16320.0
+Ag: 35321   Conta: Conta EspecialSaldo: R$16224.0
+Ag: 94744   Conta: Conta ComumSaldo: R$3810.0
+Saldo Total: 36354.0
+
+
+
+CPF 87554581895:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF19131536103     LETICIA COUTINHO ROCHA
+Ag: 47187   Conta: PoupançaSaldo: R$11200.0
+Saldo Total: 11200.0
+
+
+
+CPF40879862550     IGOR ALVES SILVA
+Ag: 45235   Conta: PoupançaSaldo: R$7634.0
+Ag: 93755   Conta: Conta ComumSaldo: R$11092.0
+Saldo Total: 18726.0
+
+
+
+CPF 07771395159:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 37600269739:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF22223241339     LUIZ CARLOS SOUZA CARVALHO ANDRADE
+Ag: 1406   Conta: Conta ComumSaldo: R$16928.0
+Saldo Total: 16928.0
+
+
+
+CPF 78777341332:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 44940759180:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 59180942776:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF11019939070     ISABEL SA DE PAULA MORAES
+Ag: 29897   Conta: Conta ComumSaldo: R$-2655.0
+Ag: 45572   Conta: Conta ComumSaldo: R$7150.0
+Saldo Total: 4495.0
+
+
+
+CPF89279311822     RENATA COSME BARRETO MORAES
+Ag: 98175   Conta: Conta ComumSaldo: R$2689.0
+Saldo Total: 2689.0
+
+
+
+CPF 36444689714:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 02253992767:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 47689267000:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 04538945253:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 04736403982:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF19973145882     PAULO ROBERTO COUTINHO
+Ag: 40530   Conta: PoupançaSaldo: R$6367.0
+Ag: 41374   Conta: PoupançaSaldo: R$13148.0
+Saldo Total: 19515.0
+
+
+
+CPF48753969421     FABIANO GUSMAO
+Ag: 62400   Conta: Conta ComumSaldo: R$11115.0
+Saldo Total: 11115.0
+
+
+
+CPF26358170393     DANIELA COSME
+Ag: 1496   Conta: Conta ComumSaldo: R$7456.0
+Saldo Total: 7456.0
+
+
+
+CPF21051448454     WILLIAN BATISTA CUNHA
+Ag: 32148   Conta: Conta ComumSaldo: R$6493.0
+Ag: 72757   Conta: PoupançaSaldo: R$4300.0
+Ag: 8535   Conta: Conta ComumSaldo: R$-2951.0
+Saldo Total: 7842.0
+
+
+
+CPF09644474964     MELINA CAMILO
+Ag: 31710   Conta: Conta ComumSaldo: R$3837.0
+Ag: 24517   Conta: PoupançaSaldo: R$-107.0
+Saldo Total: 3730.0
+
+
+
+CPF11561921825     ALINE GODOI
+Ag: 56716   Conta: PoupançaSaldo: R$13928.0
+Ag: 15080   Conta: PoupançaSaldo: R$699.0
+Ag: 12754   Conta: Conta ComumSaldo: R$4129.0
+Ag: 77178   Conta: Conta ComumSaldo: R$12444.0
+Ag: 61014   Conta: Conta ComumSaldo: R$12214.0
+Saldo Total: 43414.0
+
+
+
+CPF21446022242     ADILSON MAIA
+Ag: 8195   Conta: Conta ComumSaldo: R$5924.0
+Saldo Total: 5924.0
+
+
+
+CPF93695402525     RAFAEL RANGEL GUSMAO
+Ag: 14773   Conta: PoupançaSaldo: R$-2352.0
+Ag: 32528   Conta: Conta ComumSaldo: R$2334.0
+Saldo Total: -18.0
+
+
+
+CPF37026593689     LIDIA DIAS ROCHA
+Ag: 47394   Conta: Conta ComumSaldo: R$14386.0
+Ag: 11960   Conta: PoupançaSaldo: R$4695.0
+Saldo Total: 19081.0
+
+
+
+CPF53561434738     LUIS SA
+Ag: 35359   Conta: Conta ComumSaldo: R$9124.0
+Saldo Total: 9124.0
+
+
+
+CPF90718562068     NILCEA CRUZ VILELA GARCIA
+Ag: 16124   Conta: Conta ComumSaldo: R$1170.0
+Ag: 53079   Conta: PoupançaSaldo: R$13529.0
+Saldo Total: 14699.0
+
+
+
+CPF 61366153514:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF82160055318     ALBERTO OLIVEIRA CONCEICAO
+Ag: 27061   Conta: PoupançaSaldo: R$14793.0
+Saldo Total: 14793.0
+
+
+
+CPF80039355533     PAULA ALVES
+Ag: 45164   Conta: PoupançaSaldo: R$7384.0
+Saldo Total: 7384.0
+
+
+
+CPF21987206053     MAURO CONCEICAO NOGUEIRA
+Ag: 40557   Conta: Conta ComumSaldo: R$13253.0
+Ag: 99306   Conta: PoupançaSaldo: R$-1023.0
+Saldo Total: 12230.0
+
+
+
+CPF35542986204     OTAVIANO MARTINHO ROMAO FERNANDES
+Ag: 14173   Conta: PoupançaSaldo: R$-2013.0
+Saldo Total: -2013.0
+
+
+
+CPF85824618768     EDUARDO DE PAULA
+Ag: 72279   Conta: PoupançaSaldo: R$7574.0
+Saldo Total: 7574.0
+
+
+
+CPF18240708612     GUILHERME VILELA GUSMAO
+Ag: 57802   Conta: Conta ComumSaldo: R$-446.0
+Saldo Total: -446.0
+
+
+
+CPF66942166370     DOUGLAUS MACHADO MENEZES
+Ag: 56466   Conta: Conta ComumSaldo: R$6737.0
+Saldo Total: 6737.0
+
+
+
+CPF 46633704032:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF79213551284     MELINA LOPES RANGEL CASTRO
+Ag: 71207   Conta: PoupançaSaldo: R$13713.0
+Saldo Total: 13713.0
+
+
+
+CPF 82684431246:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF81558446550     LUIZ CARLOS CAVALCANTE CASTRO GUSMAO
+Ag: 87747   Conta: Conta EspecialSaldo: R$-603.0
+Saldo Total: -603.0
+
+
+
+CPF57942143782     LILIAN LIMA TELLES DIAS
+Ag: 39642   Conta: PoupançaSaldo: R$15992.0
+Ag: 89716   Conta: PoupançaSaldo: R$13815.0
+Saldo Total: 29807.0
+
+
+
+CPF95680853361     ELIZABETH LOPES ROCHA
+Ag: 64476   Conta: Conta ComumSaldo: R$7585.0
+Ag: 69075   Conta: PoupançaSaldo: R$15832.0
+Ag: 29383   Conta: PoupançaSaldo: R$14452.0
+Saldo Total: 37869.0
+
+
+
+CPF74609286258     PEDRO GONCALVES REZENDE
+Ag: 71797   Conta: Conta ComumSaldo: R$7780.0
+Saldo Total: 7780.0
+
+
+
+CPF05992653880     LIDIA LOPES VIEIRA CARVALHO
+Ag: 82313   Conta: Conta ComumSaldo: R$11647.0
+Saldo Total: 11647.0
+
+
+
+CPF78498872898     MARCOS GONCALVES BARRETO REZENDE
+Ag: 53052   Conta: PoupançaSaldo: R$6821.0
+Saldo Total: 6821.0
+
+
+
+CPF86775807624     ALOISIO MACHADO
+Ag: 85550   Conta: PoupançaSaldo: R$3938.0
+Ag: 21769   Conta: PoupançaSaldo: R$2607.0
+Saldo Total: 6545.0
+
+
+
+CPF 89268584925:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF02800453515     WALACE GALVAO
+Ag: 39152   Conta: Conta ComumSaldo: R$4702.0
+Ag: 62585   Conta: PoupançaSaldo: R$-554.0
+Ag: 2129   Conta: PoupançaSaldo: R$10890.0
+Ag: 16170   Conta: PoupançaSaldo: R$2056.0
+Ag: 34761   Conta: Conta ComumSaldo: R$4463.0
+Saldo Total: 21557.0
+
+
+
+CPF01962286846     HENRIQUE LOPES
+Ag: 88473   Conta: PoupançaSaldo: R$10316.0
+Ag: 19590   Conta: PoupançaSaldo: R$4195.0
+Saldo Total: 14511.0
+
+
+
+CPF27410851253     LUCIA COSME COSTA REZENDE
+Ag: 4169   Conta: PoupançaSaldo: R$1952.0
+Saldo Total: 1952.0
+
+
+
+CPF70112523319     EDUARDO GUSMAO
+Ag: 12263   Conta: Conta EspecialSaldo: R$15355.0
+Saldo Total: 15355.0
+
+
+
+CPF31918261279     MILENA COSTA RIBEIRO COSTA
+Ag: 98211   Conta: Conta ComumSaldo: R$-2854.0
+Saldo Total: -2854.0
+
+
+
+CPF38739081756     TADEU ALVES TELLES DA SILVA
+Ag: 63146   Conta: PoupançaSaldo: R$11676.0
+Saldo Total: 11676.0
+
+
+
+CPF 88781801466:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF92109354880     SAMANTA GUSMAO CAMILO MAIA
+Ag: 54980   Conta: PoupançaSaldo: R$11570.0
+Saldo Total: 11570.0
+
+
+
+CPF92791936777     KELLY REZENDE OLIVEIRA COSME
+Ag: 46787   Conta: Conta ComumSaldo: R$12112.0
+Ag: 69424   Conta: PoupançaSaldo: R$-2729.0
+Saldo Total: 9383.0
+
+
+
+CPF 68042247045:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF73110304250     ELIANA MACHADO
+Ag: 8718   Conta: PoupançaSaldo: R$11806.0
+Saldo Total: 11806.0
+
+
+
+CPF 55343250081:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+
+CPF 44386137143:
+NÃO HÁ NENHUM REGISTRO COM O CPF 12345612344
+
+
+

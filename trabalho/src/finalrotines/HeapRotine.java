@@ -119,8 +119,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort500Aleatorio() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta500alea.txt", 500, "HeapAlea500.txt",
-                    "HeapAlea500Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta500alea.txt", 500, "src/generated/heap/HeapAlea500.txt",
+                    "src/generated/heap/HeapAlea500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 500 aleatorios erro:" + e.getMessage());
             return 0;
@@ -131,8 +131,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort500Inv() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta500inv.txt", 500, "HeapInv500.txt",
-                    "HeapInv500Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta500inv.txt", 500, "src/generated/heap/HeapInv500.txt",
+                    "src/generated/heap/HeapInv500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 500 iverso erro:" + e.getMessage());
             return 0;
@@ -143,8 +143,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort500Ord() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta500ord.txt", 500, "HeapOrd500.txt",
-                    "HeapOrd500Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta500ord.txt", 500, "src/generated/heap/HeapOrd500.txt",
+                    "src/generated/heap/HeapOrd500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 500 ordernado erro:" + e.getMessage());
             return 0;
@@ -155,8 +155,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort1000Aleatorio() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta1000alea.txt", 1000, "HeapAlea1000.txt",
-                    "HeapAlea1000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta1000alea.txt", 1000, "src/generated/heap/HeapAlea1000.txt",
+                    "src/generated/heap/HeapAlea1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -167,8 +167,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort1000Inv() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta1000inv.txt", 1000, "HeapInv1000.txt",
-                    "HeapInv1000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta1000inv.txt", 1000, "src/generated/heap/HeapInv1000.txt",
+                    "src/generated/heap/HeapInv1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -179,8 +179,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort1000Ord() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta1000ord.txt", 1000, "HeapOrd1000.txt",
-                    "HeapOrd1000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta1000ord.txt", 1000, "src/generated/heap/HeapOrd1000.txt",
+                    "src/generated/heap/HeapOrd1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 1000 ordernado erro:" + e.getMessage());
             return 0;
@@ -191,8 +191,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort5000Aleatorio() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta5000alea.txt", 5000, "HeapAlea5000.txt",
-                    "HeapAlea5000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta5000alea.txt", 5000, "src/generated/heap/HeapAlea5000.txt",
+                    "src/generated/heap/HeapAlea5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 5000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -203,8 +203,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort5000Inv() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta5000inv.txt", 5000, "HeapInv5000.txt",
-                    "HeapInv5000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta5000inv.txt", 5000, "src/generated/heap/HeapInv5000.txt",
+                    "src/generated/heap/HeapInv5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 5000 invertido erro:" + e.getMessage());
             return 0;
@@ -215,8 +215,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort5000Ord() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta5000ord.txt", 5000, "HeapOrd5000.txt",
-                    "HeapOrd5000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta5000ord.txt", 5000, "src/generated/heap/HeapOrd5000.txt",
+                    "src/generated/heap/HeapOrd5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 5000 ordenado erro:" + e.getMessage());
             return 0;
@@ -227,8 +227,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort10000Aleatorio() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta10000alea.txt", 10000, "HeapAlea10000.txt",
-                    "HeapAlea10000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta10000alea.txt", 10000, "src/generated/heap/HeapAlea10000.txt",
+                    "src/generated/heap/HeapAlea10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 10.000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -239,8 +239,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort10000Inv() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta10000inv.txt", 10000, "HeapInv10000.txt",
-                    "HeapInv10000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta10000inv.txt", 10000, "src/generated/heap/HeapInv10000.txt",
+                    "src/generated/heap/HeapInv10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 10.000 invertido erro:" + e.getMessage());
             return 0;
@@ -251,8 +251,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort10000Ord() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta10000ord.txt", 10000, "HeapOrd10000.txt",
-                    "HeapOrd10000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta10000ord.txt", 10000, "src/generated/heap/HeapOrd10000.txt",
+                    "src/generated/heap/HeapOrd10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 10.000 ordenado erro:" + e.getMessage());
             return 0;
@@ -263,8 +263,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort50000Ale() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta50000alea.txt", 50000, "HeapAle50000.txt",
-                    "HeaAle50000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta50000alea.txt", 50000, "src/generated/heap/HeapAle50000.txt",
+                    "src/generated/heap/HeapAle50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 50.000 aleatorio erro:" + e.getMessage());
             return 0;
@@ -275,8 +275,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort50000Inv() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta50000inv.txt", 50000, "HeapInv50000.txt",
-                    "HeapInv50000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta50000inv.txt", 50000, "src/generated/heap/HeapInv50000.txt",
+                    "src/generated/heap/HeapInv50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 50.000 invertido erro:" + e.getMessage());
             return 0;
@@ -287,8 +287,8 @@ public class HeapRotine implements Rotina {
     private long rotinaHeapSort50000Ord() {
         HeapSort heap = new HeapSort();
         try {
-            return heap.rotinaHeapArquivo("src/basedados/conta50000ord.txt", 50000, "HeapOrd50000.txt",
-                    "HeapOrd50000Encontrado.txt");
+            return heap.rotinaHeapArquivo("src/basedados/conta50000ord.txt", 50000, "src/generated/heap/HeapOrd50000.txt",
+                    "src/generated/heap/HeapOrd50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante heap de 50.000 ordenado erro:" + e.getMessage());
             return 0;

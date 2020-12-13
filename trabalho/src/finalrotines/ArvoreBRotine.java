@@ -119,7 +119,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaABB500Aleatorio() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500alea.txt", 500, "ABBAlea500Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500alea.txt", 500, "src/generated/abb/ABBAlea500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 500 aleatorios erro:" + e.getMessage());
             return 0;
@@ -130,7 +130,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaABB500Inv() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500inv.txt", 500, "ABBInv500Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500inv.txt", 500, "src/generated/abb/ABBInv500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 500 iverso erro:" + e.getMessage());
             return 0;
@@ -140,7 +140,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaABB500Ord() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500ord.txt", 500, "ABBOrd500Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta500ord.txt", 500, "src/generated/abb/ABBOrd500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 500 ordernado erro:" + e.getMessage());
             return 0;
@@ -150,7 +150,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaABB1000Aleatorio() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000alea.txt", 1000, "ABBAlea1000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000alea.txt", 1000, "src/generated/abb/ABBAlea1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -160,7 +160,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore1000Inv() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000inv.txt", 1000, "ABBInv1000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000inv.txt", 1000, "src/generated/abb/ABBInv1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 1000 invertido erro:" + e.getMessage());
             return 0;
@@ -170,7 +170,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore1000Ord() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000ord.txt", 1000, "ABBOrd1000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta1000ord.txt", 1000, "src/generated/abb/ABBOrd1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 1000 ordernado erro:" + e.getMessage());
             return 0;
@@ -180,7 +180,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore5000Aleatorio() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000alea.txt", 5000, "ABBAlea5000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000alea.txt", 5000, "src/generated/abb/ABBAlea5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 5000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -191,7 +191,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore5000Ord() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000ord.txt", 5000, "ABBOrd5000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000ord.txt", 5000, "src/generated/abb/ABBOrd5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 5000 ordenado erro:" + e.getMessage());
             return 0;
@@ -202,7 +202,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore5000Inv() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000inv.txt", 5000, "ABBInv5000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta5000inv.txt", 5000, "src/generated/abb/ABBInv5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 5000 invertido erro:" + e.getMessage());
             return 0;
@@ -213,7 +213,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore10000Aleatorio() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000alea.txt", 10000, "ABBAlea10000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000alea.txt", 10000, "src/generated/abb/ABBAlea10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 10.000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -224,7 +224,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore10000Inv() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000inv.txt", 10000, "ABBInv10000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000inv.txt", 10000, "src/generated/abb/ABBInv10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 10.000 invertido erro:" + e.getMessage());
             return 0;
@@ -235,7 +235,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore10000Ord() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000ord.txt", 10000, "ABBOrd10000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta10000ord.txt", 10000, "src/generated/abb/ABBOrd10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 10.000 ordenado erro:" + e.getMessage());
             return 0;
@@ -246,7 +246,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore50000Ale() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000alea.txt", 50000, "HeaAle50000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000alea.txt", 50000, "src/generated/abb/ABBAle50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 50.000 aleatorio erro:" + e.getMessage());
             return 0;
@@ -257,7 +257,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore50000Inv() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000inv.txt", 50000, "ABBInv50000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000inv.txt", 50000, "src/generated/abb/ABBInv50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 50.000 invertido erro:" + e.getMessage());
             return 0;
@@ -268,7 +268,7 @@ public class ArvoreBRotine implements Rotina {
     private long rotinaArvore50000Ord() {
         Arvore ABB = new Arvore();
         try {
-            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000ord.txt", 50000, "ABBOrd50000Encontrado.txt");
+            return ABB.rotinaArvoreAvlArquivo("src/basedados/conta50000ord.txt", 50000, "src/generated/abb/ABBOrd50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante ABB de 50.000 ordenado erro:" + e.getMessage());
             return 0;

@@ -123,8 +123,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort500Aleatorio() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta500alea.txt", 500, "QuickAlea500.txt",
-                    "QuickAlea500Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta500alea.txt", 500, "src/generated/quick/QuickAlea500.txt",
+                    "src/generated/quick/QuickAlea500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 500 aleatorios erro:" + e.getMessage());
             return 0;
@@ -135,8 +135,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort500Inv() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta500inv.txt", 500, "QuickInv500.txt",
-                    "QuickInv500Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta500inv.txt", 500, "src/generated/quick/QuickInv500.txt",
+                    "src/generated/quick/QuickInv500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 500 invertido erro:" + e.getMessage());
             return 0;
@@ -147,8 +147,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort500Ord() {
         QuickSort heap = new QuickSort();
         try {
-            return heap.rotinaQuickArquivo("src/basedados/conta500ord.txt", 500, "QuickOrd500.txt",
-                    "QuickOrd500Encontrado.txt");
+            return heap.rotinaQuickArquivo("src/basedados/conta500ord.txt", 500, "src/generated/quick/QuickOrd500.txt",
+                    "src/generated/quick/QuickOrd500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante quick de 500 ordernado erro:" + e.getMessage());
             return 0;
@@ -159,8 +159,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort1000Aleatorio() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta1000alea.txt", 1000, "QuickAlea1000.txt",
-                    "QuickAlea1000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta1000alea.txt", 1000, "src/generated/quick/QuickAlea1000.txt",
+                    "src/generated/quick/QuickAlea1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante quick de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -171,8 +171,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort1000Inv() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta1000inv.txt", 1000, "QuickInv1000.txt",
-                    "QuickInv1000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta1000inv.txt", 1000, "src/generated/quick/QuickInv1000.txt",
+                    "src/generated/quick/QuickInv1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -183,8 +183,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort1000Ord() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta1000ord.txt", 1000, "QuickOrd1000.txt",
-                    "QuickOrd1000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta1000ord.txt", 1000, "src/generated/quick/QuickOrd1000.txt",
+                    "src/generated/quick/QuickOrd1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 1000 ordernado erro:" + e.getMessage());
             return 0;
@@ -195,8 +195,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort5000Aleatorio() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta5000alea.txt", 5000, "QuickAlea5000.txt",
-                    "QuickAlea5000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta5000alea.txt", 5000, "src/generated/quick/QuickAlea5000.txt",
+                    "src/generated/quick/QuickAlea5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 5000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -207,8 +207,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort5000Inv() {
         QuickSort heap = new QuickSort();
         try {
-            return heap.rotinaQuickArquivo("src/basedados/conta5000inv.txt", 5000, "QuickInv5000.txt",
-                    "QuickInv5000Encontrado.txt");
+            return heap.rotinaQuickArquivo("src/basedados/conta5000inv.txt", 5000, "src/generated/quick/QuickInv5000.txt",
+                    "src/generated/quick/QuickInv5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 5000 invertido erro:" + e.getMessage());
             return 0;
@@ -219,8 +219,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort5000Ord() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta5000ord.txt", 5000, "QuickOrd5000.txt",
-                    "QuickOrd5000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta5000ord.txt", 5000, "src/generated/quick/QuickOrd5000.txt",
+                    "src/generated/quick/QuickOrd5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 5000 ordenado erro:" + e.getMessage());
             return 0;
@@ -231,8 +231,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort10000Aleatorio() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta10000alea.txt", 10000, "QuickAlea10000.txt",
-                    "QuickAlea10000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta10000alea.txt", 10000, "src/generated/quick/QuickAlea10000.txt",
+                    "src/generated/quick/QuickAlea10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 10.000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -243,8 +243,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort10000Inv() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta10000inv.txt", 10000, "QuickInv10000.txt",
-                    "QuickInv10000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta10000inv.txt", 10000, "src/generated/quick/QuickInv10000.txt",
+                    "src/generated/quick/QuickInv10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 10.000 invertido erro:" + e.getMessage());
             return 0;
@@ -255,8 +255,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort10000Ord() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta10000ord.txt", 10000, "QuickOrd10000.txt",
-                    "QuickOrd10000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta10000ord.txt", 10000, "src/generated/quick/QuickOrd10000.txt",
+                    "src/generated/quick/QuickOrd10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 10.000 ordenado erro:" + e.getMessage());
             return 0;
@@ -267,8 +267,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort50000Ale() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta50000alea.txt", 50000, "QuickAle50000.txt",
-                    "QuickAle50000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta50000alea.txt", 50000, "src/generated/quick/QuickAle50000.txt",
+                    "src/generated/quick/QuickAle50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 50.000 aleatorio erro:" + e.getMessage());
             return 0;
@@ -280,8 +280,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort50000Inv() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta50000inv.txt", 50000, "QuickInv50000.txt",
-                    "QuickInv50000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta50000inv.txt", 50000, "src/generated/quick/QuickInv50000.txt",
+                    "src/generated/quick/QuickInv50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 50.000 invertido erro:" + e.getMessage());
             return 0;
@@ -292,8 +292,8 @@ public class QuickSortRotine implements Rotina {
     private long rotinaQuickSort50000Ord() {
         QuickSort quick = new QuickSort();
         try {
-            return quick.rotinaQuickArquivo("src/basedados/conta50000ord.txt", 50000, "QuickOrd50000.txt",
-                    "QuickOrd50000Encontrado.txt");
+            return quick.rotinaQuickArquivo("src/basedados/conta50000ord.txt", 50000, "src/generated/quick/QuickOrd50000.txt",
+                    "src/generated/quick/QuickOrd50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante Quick de 50.000 ordenado erro:" + e.getMessage());
             return 0;

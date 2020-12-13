@@ -120,7 +120,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaAvl500Aleatorio() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500alea.txt", 500, "AvlAlea500Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500alea.txt", 500, "src/generated/avl/AvlAlea500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante AVL de 500 aleatorios erro:" + e.getMessage());
             return 0;
@@ -131,7 +131,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaAvl500Inv() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500inv.txt", 500, "AvlInv500Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500inv.txt", 500, "src/generated/avl/AvlInv500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante AVL de 500 iverso erro:" + e.getMessage());
             return 0;
@@ -141,7 +141,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaAvl500Ord() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500ord.txt", 500, "AvlOrd500Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta500ord.txt", 500, "src/generated/avl/AvlOrd500Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante AVL de 500 ordernado erro:" + e.getMessage());
             return 0;
@@ -151,7 +151,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaAvl1000Aleatorio() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000alea.txt", 1000, "avlAlea1000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000alea.txt", 1000, "src/generated/avl/avlAlea1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 1000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -161,7 +161,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl1000Inv() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000inv.txt", 1000, "avlInv1000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000inv.txt", 1000, "src/generated/avl/avlInv1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 1000 invertido erro:" + e.getMessage());
             return 0;
@@ -171,7 +171,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl1000Ord() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000ord.txt", 1000, "avlOrd1000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta1000ord.txt", 1000, "src/generated/avl/avlOrd1000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 1000 ordernado erro:" + e.getMessage());
             return 0;
@@ -181,7 +181,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl5000Aleatorio() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000alea.txt", 5000, "avlAlea5000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000alea.txt", 5000, "src/generated/avl/avlAlea5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 5000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -192,7 +192,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl5000Ord() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000ord.txt", 5000, "avlOrd5000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000ord.txt", 5000, "src/generated/avl/avlOrd5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 5000 ordenado erro:" + e.getMessage());
             return 0;
@@ -203,7 +203,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl5000Inv() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000inv.txt", 5000, "avlInv5000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta5000inv.txt", 5000, "src/generated/avl/avlInv5000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 5000 invertido erro:" + e.getMessage());
             return 0;
@@ -214,7 +214,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl10000Aleatorio() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000alea.txt", 10000, "avlAlea10000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000alea.txt", 10000, "src/generated/avl/avlAlea10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 10.000 aleatorios erro:" + e.getMessage());
             return 0;
@@ -225,7 +225,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl10000Inv() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000inv.txt", 10000, "avlInv10000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000inv.txt", 10000, "src/generated/avl/avlInv10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 10.000 invertido erro:" + e.getMessage());
             return 0;
@@ -236,7 +236,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl10000Ord() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000ord.txt", 10000, "avlOrd10000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta10000ord.txt", 10000, "src/generated/avl/avlOrd10000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 10.000 ordenado erro:" + e.getMessage());
             return 0;
@@ -247,7 +247,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl50000Ale() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000alea.txt", 50000, "HeaAle50000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000alea.txt", 50000, "src/generated/avl/avlAle50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 50.000 aleatorio erro:" + e.getMessage());
             return 0;
@@ -258,7 +258,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl50000Inv() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000inv.txt", 50000, "avlInv50000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000inv.txt", 50000, "src/generated/avl/avlInv50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 50.000 invertido erro:" + e.getMessage());
             return 0;
@@ -269,7 +269,7 @@ public class ArvoreAvlRotine implements Rotina {
     private long rotinaArvoreAvl50000Ord() {
         ArvoreAvl avl = new ArvoreAvl();
         try {
-            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000ord.txt", 50000, "avlOrd50000Encontrado.txt");
+            return avl.rotinaArvoreAvlArquivo("src/basedados/conta50000ord.txt", 50000, "src/generated/avl/avlOrd50000Encontrado.txt");
         } catch (Exception e) {
             System.out.println("Erro durante avl de 50.000 ordenado erro:" + e.getMessage());
             return 0;
