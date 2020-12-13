@@ -14,10 +14,9 @@ public class DataFetcher {
         Pessoa[] pessoas = new Pessoa[tamanho];
         int numeroAdicionado = 0;
         try {
-            File file = new File(filePath); // creates a new file instance
-            FileReader fr = new FileReader(file); // reads the file
-            BufferedReader br = new BufferedReader(fr); // creates a buffering character input stream
-            StringBuffer sb = new StringBuffer(); // constructs a string buffer with no characters
+            File file = new File(filePath);
+            FileReader fr = new FileReader(file);
+            BufferedReader br = new BufferedReader(fr);
             String line;
             while ((line = br.readLine()) != null) {
                 String[] lineContent = line.split(";");
@@ -32,9 +31,7 @@ public class DataFetcher {
                 if (numeroAdicionado >= tamanho)
                     break;
             }
-            fr.close(); // closes the stream and release the resources
-            System.out.println("Contents of File: ");
-            System.out.println(sb.toString()); // returns a string that textually represents the object
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -45,9 +42,9 @@ public class DataFetcher {
         String[] cpfs = new String[tamanho];
         int numeroAdicionado = 0;
         try {
-            File file = new File(filePath); // creates a new file instance
-            FileReader fr = new FileReader(file); // reads the file
-            BufferedReader br = new BufferedReader(fr); // creates a buffering character input stream
+            File file = new File(filePath);
+            FileReader fr = new FileReader(file);
+            BufferedReader br = new BufferedReader(fr);
             String line;
             while ((line = br.readLine()) != null) {
                 cpfs[numeroAdicionado] = line.trim();

@@ -12,7 +12,7 @@ public class HeapSort {
     private DataFetcher dataFetcher = new DataFetcher();
     private Pessoa[] pessoas;
 
-    public void rotinaHeapArquivo(String inputFileName,
+    public long rotinaHeapArquivo(String inputFileName,
                                   int inputRegisterSize,
                                   String outputFileName,
                                   String outPutFileFindName) throws Exception {
@@ -33,17 +33,15 @@ public class HeapSort {
 
         BufferedWriter bwr = new BufferedWriter(new FileWriter(new File(outPutFileFindName)));
 
-        // write contents of StringBuffer to a file
         bwr.write(sbf.toString());
 
-        // flush the stream
         bwr.flush();
 
-        // close the stream
         bwr.close();
 
         long estimatedTime = System.currentTimeMillis() - startTime;
-        System.out.println("Demorou " + estimatedTime);
+
+        return estimatedTime;
     }
 
     public void heapSort(int nElem) {
