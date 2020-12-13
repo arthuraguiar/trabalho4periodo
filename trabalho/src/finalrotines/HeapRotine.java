@@ -1,7 +1,11 @@
+package finalrotines;
+
 import classes.ord.HeapSort;
+import interfaces.Rotina;
 
-public class HeapRotine {
+public class HeapRotine implements Rotina {
 
+    @Override
     public void executeRotine() {
 
         // -------- Heap 500 Aleatório -------------//
@@ -96,35 +100,20 @@ public class HeapRotine {
         System.out.println("Média de Tempo HeapSort 50.000 aleatório: " + (tempoHeap50000Ale / 5));
 
         // -------- Heap 50.000 Invertido -------------//
-        long tempoHeap50000Inv= 0;
+        long tempoHeap50000Inv = 0;
         for (int i = 0; i < 5; i++) {
             tempoHeap50000Inv += rotinaHeapSort50000Inv();
         }
         System.out.println("Média de Tempo HeapSort 50.000 invertido: " + (tempoHeap50000Inv / 5));
 
-         // -------- Heap 50.000 Ordenado -------------//
-         long tempoHeap50000Ord= 0;
-         for (int i = 0; i < 5; i++) {
+        // -------- Heap 50.000 Ordenado -------------//
+        long tempoHeap50000Ord = 0;
+        for (int i = 0; i < 5; i++) {
             tempoHeap50000Ord += rotinaHeapSort50000Ord();
-         }
-         System.out.println("Média de Tempo HeapSort 50.000 ordenado: " + (tempoHeap50000Ord / 5));
-
-    }
-
-   
-    private long rotinaHeapSort50000Ord() {
-        HeapSort heap = new HeapSort();
-        try {
-            return heap.rotinaHeapArquivo("src/basedados/conta50000ord.txt", 50000, "HeapOrd50000.txt",
-                    "HeapOrd50000Encontrado.txt");
-        } catch (Exception e) {
-            System.out.println("Erro durante heap de 50.000 ordenado erro:" + e.getMessage());
-            return 0;
         }
+        System.out.println("Média de Tempo HeapSort 50.000 ordenado: " + (tempoHeap50000Ord / 5));
 
     }
-
-    /// ja fiz
 
     private long rotinaHeapSort500Aleatorio() {
         HeapSort heap = new HeapSort();
@@ -294,5 +283,16 @@ public class HeapRotine {
 
     }
 
+    private long rotinaHeapSort50000Ord() {
+        HeapSort heap = new HeapSort();
+        try {
+            return heap.rotinaHeapArquivo("src/basedados/conta50000ord.txt", 50000, "HeapOrd50000.txt",
+                    "HeapOrd50000Encontrado.txt");
+        } catch (Exception e) {
+            System.out.println("Erro durante heap de 50.000 ordenado erro:" + e.getMessage());
+            return 0;
+        }
+
+    }
 
 }

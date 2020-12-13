@@ -1,19 +1,50 @@
 package classes.ord;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+
 import classes.models.Pessoa;
+import classes.search.PesquisaBinaria;
+import utils.DataFetcher;
 
 public class QuickSort {
     private Pessoa[] vetor;
-    private int nElem;
+    private DataFetcher dataFetcher = new DataFetcher();
 
-    public QuickSort(Pessoa[] vetor, int nElem) {
-        this.vetor = vetor;
-        this.nElem = nElem;
+    public long rotinaQuickArquivo(String inputFileName, int inputRegisterSize, String outputFileName,
+            String outPutFileFindName) throws Exception {
+
+        long startTime = System.currentTimeMillis();
+
+        vetor = dataFetcher.getPessoasFromFile(inputFileName, inputRegisterSize);
+        quicksort();
+        dataFetcher.writeFile(outputFileName, vetor);
+
+        String[] cpfs = dataFetcher.getCpfsFromFile("src/basedados/Conta.txt", 400);
+
+        PesquisaBinaria pesquisaBinaria = new PesquisaBinaria(vetor);
+
+        StringBuffer sbf = new StringBuffer();
+        for (int i = 0; i < cpfs.length; i++) {
+            sbf.append(pesquisaBinaria.removeChave(cpfs[i]) + "\n\n\n");
+        }
+
+        BufferedWriter bwr = new BufferedWriter(new FileWriter(new File(outPutFileFindName)));
+
+        bwr.write(sbf.toString());
+
+        bwr.flush();
+
+        bwr.close();
+
+        long estimatedTime = System.currentTimeMillis() - startTime;
+
+        return estimatedTime;
     }
 
     public void quicksort() {
         ordena(0, vetor.length - 1);
-        System.out.println("qualquer coisa ai");
     }
 
     private void ordena(int esq, int dir) {
@@ -25,7 +56,7 @@ public class QuickSort {
         do {
             while (isFirst(this.vetor[i], pivo))
                 i++;
-            while (isFirst(pivo,this.vetor[j]))
+            while (isFirst(pivo, this.vetor[j]))
                 j--;
             if (i <= j) {
 
