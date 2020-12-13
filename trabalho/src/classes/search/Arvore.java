@@ -1,16 +1,74 @@
 package classes.search;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.util.ArrayList;
+
 import classes.models.NoArvore;
 import classes.models.Pessoa;
+import utils.DataFetcher;
 
 public class Arvore {
     public NoArvore raiz;
+    private DataFetcher dataFetcher = new DataFetcher();
 
     public Arvore() {
         this.raiz = null;
     }
 
-    public void insere(Pessoa elem) {
+    public long rotinaArvoreAvlArquivo(String inputFileName, int inputRegisterSize, String outPutFileFindName)
+            throws Exception {
+        long startTime = System.currentTimeMillis();
+        Pessoa[] pessoas = dataFetcher.getPessoasFromFile(inputFileName, inputRegisterSize);
+        for (int i = 0; i < pessoas.length; i++) {
+            insere(pessoas[i]);
+        }
+        Arvore arvoreBalanceada = arvoreBalanceada(camCentral(new TabelaOrd(inputRegisterSize)));
+        arvoreBalanceada.fazRotinaPesquisaCpf(outPutFileFindName);
+
+        long estimatedTime = System.currentTimeMillis() - startTime;
+
+        return estimatedTime;
+    }
+
+    public void fazRotinaPesquisaCpf(String outPutFileFindName) throws Exception {
+        String[] cpfs = dataFetcher.getCpfsFromFile("src/basedados/Conta.txt", 400);
+        StringBuffer sbf = new StringBuffer();
+        for (int i = 0; i < cpfs.length; i++) {
+            ArrayList<Pessoa> pessoasEncontradas = new ArrayList<Pessoa>();
+            NoArvore nodoEncontrado;
+            while (pesquisar(cpfs[i])) {
+                nodoEncontrado = this.remove(cpfs[i]);
+                pessoasEncontradas.add(nodoEncontrado.getPessoa());
+            }
+
+            String texto;
+            if (pessoasEncontradas.size() <= 0) {
+                texto = "CPF " + cpfs[i] + ":\nNÃO HÁ NENHUM REGISTRO COM O CPF 12345612344\n";
+            } else {
+                double saldo = 0;
+                texto = "CPF" + cpfs[i] + "     " + pessoasEncontradas.get(0).getNome() + "\n";
+                for (Pessoa pessoa : pessoasEncontradas) {
+                    texto += pessoa.getInfo() + "\n";
+                    saldo += Double.parseDouble(pessoa.getSaldo());
+                }
+                texto += "Saldo Total: " + saldo + "\n";
+            }
+            sbf.append(texto + "\n\n\n");
+        }
+
+        BufferedWriter bwr = new BufferedWriter(new FileWriter(new File(outPutFileFindName)));
+
+        bwr.write(sbf.toString());
+
+        bwr.flush();
+
+        bwr.close();
+
+    }
+
+    private void insere(Pessoa elem) {
         this.raiz = this.insere(elem, this.raiz);
     }
 
@@ -111,13 +169,16 @@ public class Arvore {
         }
     }
 
-  
-    public NoArvore pesquisar(String chave, NoArvore no) {
+    public boolean pesquisar(String chave) {
+        return (pesquisar(chave, this.raiz) != null);
+    }
+
+    private NoArvore pesquisar(String chave, NoArvore no) {
         if (no != null) {
             if (chave.compareTo(no.getPessoa().getCpf()) < 0) {
                 no = pesquisar(chave, no.getEsq());
             } else {
-                if (chave.compareTo(no.getPessoa().getCpf())> 0) {
+                if (chave.compareTo(no.getPessoa().getCpf()) > 0) {
                     no = pesquisar(chave, no.getDir());
                 }
             }

@@ -1,12 +1,10 @@
-import classes.search.ArvoreAvl;
-import finalrotines.ArvoreAvlRotine;
-import finalrotines.HeapRotine;
-import finalrotines.QuickSortRotine;
+import finalrotines.ArvoreBRotine;
 
 public class App {
 
     public static void main(String[] args) {
         try {          
+            new ArvoreBRotine().executeRotine();
             // Pessoa[] pessoas = new
             // DataFetcher().getPessoasFromFile("src/basedados/conta500alea.txt", 500);
             // HashFun hash = new HashFun(500);
