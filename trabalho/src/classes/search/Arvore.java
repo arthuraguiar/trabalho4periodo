@@ -37,14 +37,18 @@ public class Arvore {
         for (int i = 0; i < cpfs.length; i++) {
             ArrayList<Pessoa> pessoasEncontradas = new ArrayList<Pessoa>();
             NoArvore nodoEncontrado;
-            while (pesquisar(cpfs[i])) {
-                nodoEncontrado = this.remove(cpfs[i]);
-                pessoasEncontradas.add(nodoEncontrado.getPessoa());
-            }
+
+            do{
+                nodoEncontrado = pesquisar(cpfs[i], this.raiz);
+                if(nodoEncontrado != null){
+                    pessoasEncontradas.add(nodoEncontrado.getPessoa());
+                    this.raiz = remove(cpfs[i]);
+                }
+            }while(nodoEncontrado != null); 
 
             String texto;
             if (pessoasEncontradas.size() <= 0) {
-                texto = "CPF " + cpfs[i] + ":\nNÃO HÁ NENHUM REGISTRO COM O CPF 12345612344\n";
+                texto = "CPF " + cpfs[i] + ": NÃO HÁ NENHUM REGISTRO COM O CPF\n";
             } else {
                 double saldo = 0;
                 texto = "CPF" + cpfs[i] + "     " + pessoasEncontradas.get(0).getNome() + "\n";

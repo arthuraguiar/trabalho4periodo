@@ -11,11 +11,11 @@ public class App {
         System.out.println("Alunos: Arthur Barcellos de Aguiar \nIgor Teixeira \nArthur Sanglard \nJuliana Silva Costa \n Fagner Pelicioni\n");
         System.out.println("Professora: Cinthia C L Caliari");
 
-        new HeapRotine().executeRotine();
-        new QuickSortRotine().executeRotine();
-        new ArvoreBRotine().executeRotine();
+        // new HeapRotine().executeRotine();
+        // new QuickSortRotine().executeRotine();
+        // new ArvoreBRotine().executeRotine();
         new ArvoreAvlRotine().executeRotine();
-        new HashRotine().executeRotine();
+        // new HashRotine().executeRotine();
     }
 
 }
